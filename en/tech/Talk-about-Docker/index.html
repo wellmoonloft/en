@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="keywords" content="Technology,Novel,Essay,Hexo,Typora,Political" />
+  <meta name="author" content="wellmoonloft" />
+  <meta name="subtitle" content="Connotation fatty refuses to lose weight" />  
+  <meta name="description" content="Technology, Essay, Gossip" />
+  <title>Talk about Docker | Well Talk</title>
+  <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/images/jing-min.jpeg">
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/images/jing-min.jpeg">
+  <!-- jquery3.6 -->
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/jquery.min-3.6.js"></script>
+  <!-- hexo site css -->
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/base-min.css" rel="stylesheet">
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/iconfont/iconfont-min.css" rel="stylesheet">
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/github-markdown-min.css" rel="stylesheet">
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/highlight-min.css" rel="stylesheet">  
+  <!-- fancybox -->
+  <link href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/fancy-min-3.5.2.css" rel="stylesheet">
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/fancy-min-3.5.2.js"></script>
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/fancybox.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-R4XRTRGM56"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-R4XRTRGM56');
+  </script>
+<meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/en/atom.xml" title="Well Talk" type="application/atom+xml">
+</head>
+<body>
+  <div id="app">
+  <div class="header">
+  <div class="avatar">
+    <a href="https://www.igerm.ee/en"><img src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/images/jing-min.jpeg" alt=""></a>
+  </div>
+  <div class="navbar">
+    <ul>
+      <li class="nav-item" data-path="/en/"><a href="/en/">Technology</a></li>
+      <li class="nav-item" data-path="/en/categories/novel/"><a href="/en/categories/novel/">Novel</a></li>
+      <li class="nav-item" data-path="/en/categories/essay/"><a href="/en/categories/essay/">Essay</a></li>
+      <li class="nav-item" data-path="/en/tags/"><a href="/en/tags/">Tags</a></li>
+    </ul>
+  </div>
+</div>
+<script>
+  let navs = document.querySelectorAll('.nav-item');
+  let pagePath = window.location.pathname;
+  for (let nav of navs) {
+    let navPath = nav.getAttribute("data-path");
+    if (navPath && navPath === pagePath) {
+      nav.className = "nav-item active";
+    }
+  }
+</script>       
+  <div class="flex-container">          
+  <!-- 同时引入 post.ejs 和 index.ejs -->
+  <!-- LaTex Display -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+
+<div class="container post-details" id="post-details">
+  <div class="post-content">
+    <div class="post-title">Talk about Docker</div>
+    <div class="post-attach">
+      <span class="post-pubtime">
+        <i class="iconfont icon-edit" title="Update time"></i> 2019-02-26 00:25:22
+      </span>
+      <span class="post-count">≈2.8k Words</span>
+      <span class="post-count">≈17 Minutes</span>
+      <span class="post-tags">
+        <i class="iconfont icon-tags" title="Tags"></i>
+        <span class="span--tag"><a href="/en/tags/Docker/" title="Docker"><b>#</b> Docker</a></span>
+      </span>
+      </div>
+      <div class="markdown-body"><h2 id="Wedge"><a href="#Wedge" class="headerlink" title="Wedge"></a>Wedge</h2><p>The first time I heard about the term Docker was around 2014. At that time, the research was not in-depth, and the introduction and application of new technologies in non-Internet companies were often lagging (not not innovating, but in safety and stability. consider). At that time, I just knew that the simplest explanation of Docker was <strong>application and virtualization</strong>. There were very few domestic applications, and the mirror warehouse was far less mature than it is now.</p>
+<p>But I think the main reason for the slow promotion may be two other reasons:</p>
+<ol>
+<li>The mainstream discussion of enterprise-level application changes that year was <strong>SOA (Service-Oriented Architecture)</strong>. In actual scenarios, everyone is studying <strong>Dubbo</strong>. Although the concept of microservices already exists, the boundary and application are split. The case is not clear</li>
+<li>The entrance to the <strong>Spring Family Bucket</strong> Spring Boot** just came out, not to mention the <strong>Spring Cloud</strong></li>
+</ol>
+<p>Over time, after picking up the technology again, I found that <strong>Spring Boot 2.X</strong> has been powerful enough, and <a target="_blank" rel="noopener" href="https://spring.io/">Spring’s official website</a> has announced very clearly and proudly. The future development trend of the <strong>Java web</strong> project is the following picture <code>Build Anything | Coordinate Anything | Connect Everything</code>:</p>
+<p><img src="https://i.loli.net/2021/03/29/ZLe2r6KSB5CcGFj.png"></p>
+<p>The future is here. In addition to simple additions, deletions, changes, and checks, the code builder can already configure and automatically generate forms through the application of the template engine. ** Is the era for robots to automatically complete the architecture and business implementation still far away? **Maybe 80% of developers will be laid off in the future, who knows?</p>
+<p>It’s a bit far-flung. When it comes to Docker, I want to say as little as possible about theoretical knowledge. Baidu is everywhere, and there are various video tutorials. Here, I will just talk about the application of Docker and the most commonly used commands.</p>
+<h2 id="What-is-Docker"><a href="#What-is-Docker" class="headerlink" title="What is Docker"></a>What is Docker</h2><p>This paragraph is copied from the Docker official website:</p>
+<blockquote>
+<p>Docker uses the <a target="_blank" rel="noopener" href="https://golang.org/">Go language</a> launched by Google for development and implementation, based on the Linux kernel <a target="_blank" rel="noopener" href="https://zh.wikipedia.org/wiki/Cgroups">cgroup</a>, <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Linux_namespaces">namespace </a>, and [Union FS](<a target="_blank" rel="noopener" href="https://en.wikipedia/">https://en.wikipedia</a> .org/wiki/Union_mount) and other technologies, which encapsulate and isolate processes, belong to <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization">operating system level virtualization technology</a>. Since the isolated process is independent of the host and other isolated processes, it is also called a container. The initial implementation is based on <a target="_blank" rel="noopener" href="https://linuxcontainers.org/lxc/introduction/">LXC</a>. Since version 0.7, LXC has been removed and the self-developed [libcontainer](<a target="_blank" rel="noopener" href="https://github.com/docker/">https://github.com/docker/</a> libcontainer), starting from 1.11, it further evolved to use <a target="_blank" rel="noopener" href="https://github.com/opencontainers/runc">runC</a> and <a target="_blank" rel="noopener" href="https://github.com/containerd/containerd">containerd</a>.</p>
+<p>Docker has carried out further encapsulation on the basis of containers, from file system, network interconnection to process isolation, etc., which greatly simplifies the creation and maintenance of containers. This makes Docker technology more portable and faster than virtual machine technology.</p>
+</blockquote>
+<p>It’s too complicated to understand, isn’t it? A simple example to illustrate, in the past, what was the process for software companies to release products to customers for deployment and launch?</p>
+<ol>
+<li>Developers complete the development, package and submit for testing</li>
+<li>Testers set up a test environment for testing, and return to development if there are bugs</li>
+<li>The developer will verify the bug, if it can be reproduced, modify the bug and resubmit the test</li>
+<li><strong>If developers cannot reproduce, they need to communicate with testers to confirm and investigate environmental factors (generally this cycle will be very scary)</strong></li>
+<li>After the test is completed, the developer will package the version and submit it to the on-site implementation staff</li>
+<li>The implementer gets the package** and deploys the UAT environment**, submits it for user testing after deployment, and returns to the implementer if there is a bug</li>
+<li>The implementer needs to check: user operation**, deployment process, UAT environment and other factors**, if it cannot be resolved, then return to the developer for verification</li>
+<li>The developer verifies, if the bug can be reproduced, modify the bug, <strong>and repeat steps 4, 5, 6</strong></li>
+<li>The implementer deploys to the production environment and conducts the final test. <strong>If there is a bug, repeat steps 7 and 8</strong></li>
+</ol>
+<p>It can be seen that in the entire software life cycle, environment deployment and environment inconsistency will cause big problems. Docker solves this problem perfectly. If Docker is used in the entire process, the process will be greatly simplified, such as:</p>
+<ol>
+<li>The developer completes the development and <strong>marks as a Docker image</strong> to submit for testing</li>
+<li>The tester <strong>starts the mirror</strong> for testing, and returns to development if there is a bug</li>
+<li>The developer verifies the bug, if it can be reproduced, modify the bug and resubmit the test (after having Docker, if the developer follows the test procedure, 99% of the problem can be reproduced)</li>
+<li>After the test is completed, the developer <strong>marks it as a Docker image</strong> and submits it to the on-site implementation staff</li>
+<li>The implementer <strong>starts the mirror</strong>, the user conducts a UAT test, and returns to the implementer if there is a bug</li>
+<li>The implementer needs to check: user operation (99% of the problems are improper user operation or insufficient test case coverage by the tester after Docker is available). If it cannot be solved, return it to the developer for verification</li>
+<li>The developer verifies, if the bug can be reproduced, modify the bug, <strong>and repeat steps 4, 5, 6</strong></li>
+<li>The implementer <strong>starts the mirror</strong> and performs the final test. <strong>If there is a bug, repeat steps 7 and 8</strong></li>
+</ol>
+<p>**Docker’s external slogan is: once package, run everywhere, and the operating environment is exactly the same. **When you finish the development, you package Tomcat, Java environment and web application into an image for packaging, then this image can be copied everywhere, as long as the machine equipped with Docker can extract the image and ** run directly and packaged with you For an application with the same environment, databases, middleware, and Web applications can all be mirrored. **</p>
+<p><strong>More importantly, compared with traditional virtual machines:</strong></p>
+<ol>
+<li>Docker starts in seconds</li>
+<li>Docker’s disk usage is MB</li>
+<li>Docker’s performance is close to native</li>
+<li>Docker’s single machine supports thousands of containers</li>
+</ol>
+<p><img src="https://i.loli.net/2021/03/29/28bycMVKvPBLrga.png"></p>
+<h2 id="Install-Docker"><a href="#Install-Docker" class="headerlink" title="Install Docker"></a>Install Docker</h2><h4 id="Install-Docker-under-Mac-OS"><a href="#Install-Docker-under-Mac-OS" class="headerlink" title="Install Docker under Mac OS"></a>Install Docker under Mac OS</h4><p>Installing Docker under Mac OS is very simple. After registering on the <a target="_blank" rel="noopener" href="https://hub.docker.com/editions/community/docker-ce-desktop-mac">official website</a> directly click on <code>Get Docker</code> to download the installation file. However, for some well-known reasons, if you want to extract mirrors elegantly, you also need to configure Registry mirrors.</p>
+<p><code>https://registry.docker-cn.com</code></p>
+<h3 id="Install-Docker-under-CentOS"><a href="#Install-Docker-under-CentOS" class="headerlink" title="Install Docker under CentOS"></a>Install Docker under CentOS</h3><p>Installing Docker under CentOS is equally simple, but you need to determine the kernel version first. Docker requires the kernel version of the CentOS system to be higher than 3.10</p>
+<ol>
+<li>First check the kernel version</li>
+</ol>
+<p>​ <code>uname -r</code></p>
+<ol start="2">
+<li><p>Download and install, here you need to pay attention, after March 2017, docker is divided into two branch versions on the original basis: Docker CE and Docker EE. Docker CE is the community free version, and Docker EE is the enterprise version. It emphasizes security, but it needs to be used for a fee.</p>
+<p><strong>Install some necessary system tools, yum-util provides the yum-config-manager function, and the other two are dependent on the devicemapper driver:</strong></p>
+<p><code>sudo yum install -y yum-utils device-mapper-persistent-data lvm2</code></p>
+<p><strong>Because of some well-known reasons, you need to set up a domestic yum source:</strong></p>
+<p><code>sudo yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo</code></p>
+<p><strong>Update yum cache:</strong></p>
+<p><code>sudo yum makecache fast</code></p>
+<p><strong>Install Docker:</strong></p>
+<p><code>sudo yum -y install docker-ce</code></p>
+<p><strong>Start Docker service:</strong></p>
+<p><code>sudo systemctl start docker</code></p>
+</li>
+</ol>
+<h3 id="Install-Docker-under-Windows"><a href="#Install-Docker-under-Windows" class="headerlink" title="Install Docker under Windows"></a>Install Docker under Windows</h3><p>Oh, ha ha, ha ha ha, ha ha ha, ha ha ha ha, ha ha ha ha ha</p>
+<h2 id="Use-of-Docker"><a href="#Use-of-Docker" class="headerlink" title="Use of Docker"></a>Use of Docker</h2><p>If it is only used normally, the commands that need to be understood are very limited, the most commonly used are the following five</p>
+<h3 id="List-the-mirror-list"><a href="#List-the-mirror-list" class="headerlink" title="List the mirror list"></a>List the mirror list</h3><p>Use <code>docker images</code> to list the images on the local host</p>
+<p><img src="https://i.loli.net/2021/03/29/DXoevxYg5nIzsHV.png"></p>
+<h3 id="Find-mirror"><a href="#Find-mirror" class="headerlink" title="Find mirror"></a>Find mirror</h3><p>Use the <code>docker search [mirror name]</code> command to search for mirrors, such as searching for the mirrors I packaged</p>
+<p><img src="https://i.loli.net/2021/03/29/3COMXcNdfpHwqxP.png"></p>
+<p>When searching, you can either <strong>directly search for the mirror name</strong>, or <strong>search the author name/mirror name</strong>, it will be sorted by the number of STARS, and OFFICIAL indicates that it is an official mirror.</p>
+<h3 id="Get-a-new-mirror"><a href="#Get-a-new-mirror" class="headerlink" title="Get a new mirror"></a>Get a new mirror</h3><p>Use the <code>docker pull [image name]</code> command to get the image</p>
+<p><img src="https://i.loli.net/2021/03/29/pOnhMcTeA14EBWm.png"></p>
+<p>If there is no version number, the latest version of the mirror will be downloaded automatically, or if you know the name of the mirror specifically, you can directly use <code>docker run [mirror name]</code> This time the warehouse will automatically pull if there is no such mirror.</p>
+<h3 id="Delete-mirror"><a href="#Delete-mirror" class="headerlink" title="Delete mirror"></a>Delete mirror</h3><p>Use the <code>docker image rm [IMAGE ID]</code> command to delete the image, such as deleting the image obtained above</p>
+<p><img src="https://i.loli.net/2021/03/29/hcvfObHwu1yk5CV.png"></p>
+<h3 id="Run-the-mirror"><a href="#Run-the-mirror" class="headerlink" title="Run the mirror"></a>Run the mirror</h3><p>Use the <code>docker run [mirror name]</code> command to start the mirror. <strong>It is not recommended to use it directly here</strong>, because in general, you need to configure the port mapping and disk mapping between the host and the mirror when starting up. It is recommended to use **Dockerfile ** to run, put it in the Docker build and talk about it together</p>
+<h3 id="View-the-running-status-of-the-mirror"><a href="#View-the-running-status-of-the-mirror" class="headerlink" title="View the running status of the mirror"></a>View the running status of the mirror</h3><p>Use the <code>docker stats</code> command to view the running status of the image</p>
+<p><img src="https://i.loli.net/2021/03/29/e8GLdaxsJ32AwFI.png"></p>
+<p>My cloud server is 2C4G. It can be seen that the operation of the container is very refined. After all, it is poor!</p>
+<h2 id="Docker-build"><a href="#Docker-build" class="headerlink" title="Docker build"></a>Docker build</h2><h3 id="Dockerfile"><a href="#Dockerfile" class="headerlink" title="Dockerfile"></a>Dockerfile</h3><p>In another sentence, Dockerfile can be understood as a BAT file on Windows (but there are still differences in fact), which can be regarded as a set of dockerfile configuration statements executed sequentially, but since it is said that Docker builds, it needs to be said briefly. The composition of Docker, theoretical knowledge is not mentioned, to understand it this way, the composition of <strong>Docker is like an onion</strong>, layer by layer, the core is the original container, it can be empty, or it can be a basic Java environment , Just like the picture below</p>
+<p><img src="https://i.loli.net/2021/03/29/PKHUgSfC1LsriIu.png"></p>
+<p>This leads to the first command of the Dockerfile</p>
+<p><code>FROM</code>, specify the base image, for example, it can be written as <code>FROM java:8</code>, this is the version that specifies the base image as java and tag is 8, corresponding to jdk is 1.8</p>
+<p><code>EXPOSE</code>, specify the mirror port number, for example, it can be written as <code>EXPOSE 8080</code>, indicating that the external port of this mirror is 8080</p>
+<p><code>VOLUME</code>, specify the folder for data persistence. **It should be highlighted here that docker mirroring runs like redis. Once the mirroring stops, any data changes that occur inside will not be saved! ! ! Therefore, you need to specify a folder, this folder is mapped to the host, and all the data that needs to be saved should be placed in this folder! ! ! **This can be written as <code>VOLUME /tmp</code>, because the default working directory of the embedded Tomcat container used by Spring Boot is /tmp</p>
+<p><code>ADD</code>, put the content of the specified path into the specified path of the mirror, this is mainly used to throw the packaged web file into the mirrored web container, such as this sentence <code>ADD jmall-admin.jar /app.jar</code> It will throw my packaged Spring Boot file into the root directory of the container and rename it to app.jar</p>
+<p><code>RUN</code>, this is easy to understand, is to execute the <strong>docker command</strong>, corresponding to the above <code>docker run</code></p>
+<p><code>ENTRYPOINT</code>, specify the default entry point of the mirror, such as <code>ENTRYPOINT [&quot;java&quot;,&quot;-jar&quot;,&quot;/app.jar&quot;]</code>, this is particularly familiar <code>java -jar /app.jar</code></p>
+<p>At this point, a Dockerfile command is finished, and it looks like this:</p>
+<figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">FROM</span> <span class="string">java:8</span></span><br><span class="line"><span class="attr">EXPOSE</span> <span class="string">8080</span></span><br><span class="line"></span><br><span class="line"><span class="attr">VOLUME</span> <span class="string">/tmp</span></span><br><span class="line"><span class="attr">ADD</span> <span class="string">jmall-admin.jar /app.jar</span></span><br><span class="line"><span class="attr">RUN</span> <span class="string">bash -c&#x27;touch /app.jar&#x27;</span></span><br><span class="line"><span class="attr">ENTRYPOINT</span> <span class="string">[&quot;java&quot;,&quot;-jar&quot;,&quot;/app.jar&quot;]</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="Use-Dockerfile"><a href="#Use-Dockerfile" class="headerlink" title="Use Dockerfile"></a>Use Dockerfile</h3><p>Using Dockerfile is very simple. The easiest way is to go directly to the directory at the same level of Dockerfile and run the command <code>docker build</code> directly. The created image will be directly placed in your local warehouse. You can use the <code>docker images</code> command to view</p>
+<p><img src="https://i.loli.net/2021/03/29/PoO5EUuRQJvCplS.png"></p>
+<h3 id="Submit-your-mirror"><a href="#Submit-your-mirror" class="headerlink" title="Submit your mirror"></a>Submit your mirror</h3><p>After the image is done, you can directly submit the image file to the private server or docker hub to share with others. Submitting the image is also very simple. I submitted it directly with IDEA. If it is on the server, you can also use the command</p>
+<p>First log in to docker hub</p>
+<p><code>docker login</code></p>
+<p>After pressing enter, you will be asked to enter your username and password</p>
+<p>You can submit it when you see <code>Login Succeeded</code>, <code>docker push wellmoonloft/jmall</code> here needs attention, your name in the front must be the same as your login user name, and <strong>due to well-known reasons… The submission process is very long</strong>, so it is strongly recommended to submit it with a tool, at least there is a progress bar to see.</p>
+<h3 id="Save-the-image-as-a-file-and-copy-it-to-others"><a href="#Save-the-image-as-a-file-and-copy-it-to-others" class="headerlink" title="Save the image as a file and copy it to others"></a>Save the image as a file and copy it to others</h3><p>Sometimes the image that we packaged belongs to the internal system, which is not convenient to push to the public network, or if our company does not have a private server, we need to save the image to others as a tar file and copy it to others. The image storage is also very simple. Command <code>docker save -o [file name to be saved] [image file to be saved or IMAGE ID]</code>, after completion, there will be a tar package in the path where you execute the command, this package can be directly copied to others. It should be noted that if it is Cent OS or Mac OS, pay attention to the authorization of the path</p>
+<p><img src="https://i.loli.net/2021/03/29/ByGAtqai1nsXkrU.png"></p>
+<h3 id="Import-the-image-into-the-local-warehouse"><a href="#Import-the-image-into-the-local-warehouse" class="headerlink" title="Import the image into the local warehouse"></a>Import the image into the local warehouse</h3><p>You can’t directly use the mirrored tar file you received from others. You need to import it into your local warehouse. It’s also very simple. Execute the command <code>docker load &lt;[file name]</code>, corresponding to the above file, you should write <code>docker load &lt; jmall.tar</code></p>
+<h2 id="Docker-Compose"><a href="#Docker-Compose" class="headerlink" title="Docker Compose"></a>Docker Compose</h2><p>If you just run a simple single application, this is enough, but in production, multiple applications often work together to complete the construction of a system. If you add load balancing, you may have to start or stop multiple mirrors at the same time. And unified management, there is a very useful mechanism in Docker called Docker Compose to solve this problem, here we need to introduce two familiar terms.</p>
+<p>-Service (<code>service</code>): a single container image, which can be a database or a web application<br>-Project (<code>project</code>): A complete business unit composed of a set of associated application containers (<code>service</code>)</p>
+<p>Don’t talk about concepts, look at examples:</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">version:</span> <span class="string">&#x27;2&#x27;</span></span><br><span class="line"><span class="attr">services:</span></span><br><span class="line">  <span class="attr">jmall-admin:</span></span><br><span class="line">    <span class="attr">image:</span> <span class="string">jmall/admin</span></span><br><span class="line">    <span class="attr">ports:</span></span><br><span class="line">      <span class="string">-&quot;8080:8080&quot;</span></span><br><span class="line">    <span class="attr">environment:</span></span><br><span class="line">      <span class="string">-spring.profiles.active=dev</span></span><br><span class="line">  <span class="attr">jmall-db:</span></span><br><span class="line">    <span class="attr">image:</span> <span class="string">jmall/mysql</span></span><br><span class="line">    <span class="attr">ports:</span></span><br><span class="line">      <span class="string">-&quot;3306:3306&quot;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p><code>version: &#39;2&#39;</code> This is not just scribbled, this version is the version of Docker Compose installed on the host</p>
+<p><code>services</code> is a fixed wording, indicating that the following are all mirror images</p>
+<p>The name of the <code>jmall-admin</code>service, which corresponds to the image name in the following <code>image</code></p>
+<p><code>ports</code>, the mirror port is specified as 8080 when building the mirror, but in fact it cannot be accessed when the mirror is run directly, because <strong>the port thrown by the mirror is not mapped with the host port</strong> , Here is to map the 8080 of the host machine to the 8080 in the image, of course, if you don’t use Docker Compose, you can also directly map it with <code>docker run -p 8080:8080</code></p>
+<p><code>environment</code> is to force the content of the Spring Boot configuration file to be changed, here I am writing to specify the development environment</p>
+<h3 id="Use-Docker-Compose"><a href="#Use-Docker-Compose" class="headerlink" title="Use Docker Compose"></a>Use Docker Compose</h3><p>It is also very simple to use Dokcer Compose. Enter the same level path of Dokcer Compose and use the command <code>docker-compose up</code></p>
+<h2 id="Thinking"><a href="#Thinking" class="headerlink" title="Thinking"></a>Thinking</h2><p>Technological progress is truly endless, and it is very closely related. If microservices do not have Spring Boot, Docker, Dubbo, Zookeeper, and Redis technologies, it is really difficult to fully promote it through traditional products. +The form of service is difficult to survive, the market forces technology to open source, and China’s open source industry is becoming more and more mature. <strong>Open source does not mean free</strong>, but ** learn from each other and support each other, and work together to find the best case. Practice, this is a virtuous circle. **</p>
+<p>The future of technology must not be closed, but a combination of technology + packaging services.</p>
+<p>With the emergence of Gitee, there are now more and more excellent domestic open source products, such as JFinal, xxl-sso, jeesite, which are either independently developed or developed by small teams.</p>
+<p>And big manufacturers are also embracing open source. Needless to say, the domestic gods who contributed various national services, launched various open source products such as Dubbo, and the conscientious Ali of the industry, various technologies are promoted by the Tucao policy, but at least one echarts can still I saw that Baidu, an Internet company, was barely able to catch up with a Tencent that studied various charging methods.</p>
+<p>It is so wonderful to be able to catch up with this era.</p>
+</div>
+      <div class="prev-or-next"></div>
+    </div>
+    
+<div class="post-catalog" id="catalog">
+  <div class="title">Contents</div>
+  <div class="catalog-content">
+    <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Wedge"><span class="toc-text">Wedge</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#What-is-Docker"><span class="toc-text">What is Docker</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-Docker"><span class="toc-text">Install Docker</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Install-Docker-under-Mac-OS"><span class="toc-text">Install Docker under Mac OS</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Docker-under-CentOS"><span class="toc-text">Install Docker under CentOS</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Docker-under-Windows"><span class="toc-text">Install Docker under Windows</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Use-of-Docker"><span class="toc-text">Use of Docker</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#List-the-mirror-list"><span class="toc-text">List the mirror list</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Find-mirror"><span class="toc-text">Find mirror</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Get-a-new-mirror"><span class="toc-text">Get a new mirror</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Delete-mirror"><span class="toc-text">Delete mirror</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Run-the-mirror"><span class="toc-text">Run the mirror</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#View-the-running-status-of-the-mirror"><span class="toc-text">View the running status of the mirror</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Docker-build"><span class="toc-text">Docker build</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Dockerfile"><span class="toc-text">Dockerfile</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Use-Dockerfile"><span class="toc-text">Use Dockerfile</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Submit-your-mirror"><span class="toc-text">Submit your mirror</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Save-the-image-as-a-file-and-copy-it-to-others"><span class="toc-text">Save the image as a file and copy it to others</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Import-the-image-into-the-local-warehouse"><span class="toc-text">Import the image into the local warehouse</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Docker-Compose"><span class="toc-text">Docker Compose</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Use-Docker-Compose"><span class="toc-text">Use Docker Compose</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Thinking"><span class="toc-text">Thinking</span></a></li></ol>
+  </div>
+</div>
+<script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/catalog.js"></script>
+
+
+    <div class="comments-container">
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <div id="vcomments"></div>
+  <script>
+    new Valine({
+      el: '#vcomments',
+      appId: 'mHgw3YbXtcTnEXgLbopbas3D-gzGzoHsz',
+      appKey: '9VXFCLVhgmg2HtPaPDS6RMWj',
+      placeholder: 'Welcome!',
+      avatar: 'retro',
+      lang: 'en'
+    })
+  </script>
+
+    <style>
+      .comments-container .v .vempty {
+        display: none!important;
+      }
+    </style>
+
+</div>
+  </div>
+
+  <div class="footer">
+  <div class="social">
+    <ul>
+      <li><a title="rss" href="/en/atom.xml"><i class="iconfont icon-rss"></i></a></li>
+    </ul>
+  </div>
+  <div class="footer-more">
+      <a href="https://www.igerm.ee/en/">Copyright © wellmoonloft 2021</a>  
+  </div><div class="footer-more">
+      <a target="_blank" rel="noopener" href="https://github.com/zchengsite/hexo-theme-oranges">Theme by Oranges ｜ Powered by Hexo</a>  
+  </div>
+</div>
+  </div>
+  <div style="position: fixed;right: 2.2rem;top: 2.2rem;font-weight: bold;font-size: 1.6rem;">
+  <a href="https://www.igerm.ee/">中</a>
+  </div><div class="back-to-top hidden">
+  <a href="javascript: void(0)">
+    <i class="iconfont icon-chevronup"></i>
+  </a>
+</div>
+<script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/backtoTop.js"></script>
+  <div class="search-icon" id="search-icon">
+    <a href="javascript: void(0)"><i class="iconfont icon-search"></i></a>
+  </div>
+  <div class="search-overlay hidden">
+    <div class="search-content" tabindex="0">
+      <div class="search-title">
+        <span class="search-icon-input">
+          <a href="javascript: void(0)"><i class="iconfont icon-search"></i></a>
+        </span><input type="text" class="search-input" id="search-input" placeholder="Search...">
+        <span class="search-close-icon" id="search-close-icon">
+          <a href="javascript: void(0)"><i class="iconfont icon-close"></i></a>
+        </span>
+      </div>
+      <div class="search-result" id="search-result"></div>
+    </div>
+  </div>
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/search.js"></script>
+  </div>
+</body>
+</html>

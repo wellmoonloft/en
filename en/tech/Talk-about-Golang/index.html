@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="keywords" content="Technology,Novel,Essay,Hexo,Typora,Political" />
+  <meta name="author" content="wellmoonloft" />
+  <meta name="subtitle" content="Connotation fatty refuses to lose weight" />  
+  <meta name="description" content="Technology, Essay, Gossip" />
+  <title>Talk about the Go language | Well Talk</title>
+  <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/images/jing-min.jpeg">
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/images/jing-min.jpeg">
+  <!-- jquery3.6 -->
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/jquery.min-3.6.js"></script>
+  <!-- hexo site css -->
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/base-min.css" rel="stylesheet">
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/iconfont/iconfont-min.css" rel="stylesheet">
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/github-markdown-min.css" rel="stylesheet">
+  <link async href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/highlight-min.css" rel="stylesheet">  
+  <!-- fancybox -->
+  <link href="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/css/fancy-min-3.5.2.css" rel="stylesheet">
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/fancy-min-3.5.2.js"></script>
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/fancybox.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-R4XRTRGM56"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-R4XRTRGM56');
+  </script>
+<meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/en/atom.xml" title="Well Talk" type="application/atom+xml">
+</head>
+<body>
+  <div id="app">
+  <div class="header">
+  <div class="avatar">
+    <a href="https://www.igerm.ee/en"><img src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/images/jing-min.jpeg" alt=""></a>
+  </div>
+  <div class="navbar">
+    <ul>
+      <li class="nav-item" data-path="/en/"><a href="/en/">Technology</a></li>
+      <li class="nav-item" data-path="/en/categories/novel/"><a href="/en/categories/novel/">Novel</a></li>
+      <li class="nav-item" data-path="/en/categories/essay/"><a href="/en/categories/essay/">Essay</a></li>
+      <li class="nav-item" data-path="/en/tags/"><a href="/en/tags/">Tags</a></li>
+    </ul>
+  </div>
+</div>
+<script>
+  let navs = document.querySelectorAll('.nav-item');
+  let pagePath = window.location.pathname;
+  for (let nav of navs) {
+    let navPath = nav.getAttribute("data-path");
+    if (navPath && navPath === pagePath) {
+      nav.className = "nav-item active";
+    }
+  }
+</script>       
+  <div class="flex-container">          
+  <!-- 同时引入 post.ejs 和 index.ejs -->
+  <!-- LaTex Display -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+
+<div class="container post-details" id="post-details">
+  <div class="post-content">
+    <div class="post-title">Talk about the Go language</div>
+    <div class="post-attach">
+      <span class="post-pubtime">
+        <i class="iconfont icon-edit" title="Update time"></i> 2019-03-12 13:36:57
+      </span>
+      <span class="post-count">≈2.8k Words</span>
+      <span class="post-count">≈17 Minutes</span>
+      <span class="post-tags">
+        <i class="iconfont icon-tags" title="Tags"></i>
+        <span class="span--tag"><a href="/en/tags/Golang/" title="Golang"><b>#</b> Golang</a></span>
+      </span>
+      </div>
+      <div class="markdown-body"><h2 id="Wedge"><a href="#Wedge" class="headerlink" title="Wedge"></a>Wedge</h2><p>After eating Febu for two months, I thought I had escaped the pain of melting crystals caused by the sharp drop in uric acid, but I didn’t expect that the only thing to come would be to come back. The four points of the synovial membrane on the knee were mass-dissolved to induce synovitis, and I stayed at home. Today I can finally sit up, let’s talk about Golang, which is customarily called Go language in China.</p>
+<blockquote>
+<p>The name of the language is Go; “golang” comes from its web site URL (go.com was already a Disney web site address at the time.), and is not the correct name for the language.</p>
+</blockquote>
+<p>Go language is called “<strong>C language</strong> of the 21st century**”. It still makes sense. First of all, let’s look at the three major god-level core developers of the Go language, Rob Pike, Robert Griesemer and Ken Thompson. Go language, its language is positioned as a system programming language.</p>
+<blockquote>
+<p>Rob Pike, a non-mainstream programmer who has always used Uncle Ken as his mentor, won the silver medal in the archery project of the Olympic Games in 1980, and participated in TV show “Late Night with David Letterman” by David Letterman. Developed Unix, and developed UTF-8 together with Uncle Ken. He is a tutor to engineers from all over the world in terms of data structure. At the same time, he is a so-called “full-stack engineer”, from operating systems to compilers, and from text editors. Wrote to the UI interface, and at the same time, his wife (Renee French, a well-known illustrator) personally designed the Go language mascot Gordon.</p>
+<p>At this point, you have to think about domestic education and foreign education. A fixed mindset requires you to choose one thing in your life, and foreign gods develop in multiple fields. In the end… which one is right? Somewhat confused.</p>
+</blockquote>
+<p><img src="https://i.loli.net/2021/03/29/CtF32DYbcGhXP7Z.png"></p>
+<blockquote>
+<p>Robert Griesemer, an engineer at Google, developed the Sawzall language with Rob Pike, and participated in the development of Google’s V8 JS engine and Chubby at the same time.</p>
+</blockquote>
+<blockquote>
+<p>Ken Thompson, Uncle Ken won the Turing Award as early as 1983. He is one of the developers of Unix and developed the B language and C language at the same time. You know, people with short resumes indicate that he is really awesome.</p>
+</blockquote>
+<h2 id="The-generation-of-Go-language"><a href="#The-generation-of-Go-language" class="headerlink" title="The generation of Go language"></a>The generation of Go language</h2><p>According to Rob Pike’s speech in San Francisco, in 2007 Rob Pike did some trivial but core work for Google’s huge C++ program. Due to the heavy weight of C++, it was required on Google’s huge distributed compilation cluster. Take 45 minutes.</p>
+<p>Rob Pike believes that <strong>C++ has too many features, and simplifying the language must be a greater achievement</strong>, so Rob Pike and Robert Griesemer discussed and optimized C++. They found Uncle Ken and convinced him to work together To do something, they want to create a new development language and don’t want to use C++ anymore.</p>
+<p>Rob Pike kept thinking on the way home, so he wrote an email to Uncle Ken and Robert Griesemer describing the naming and method of Go:</p>
+<p><img src="https://i.loli.net/2021/03/29/Vi5EyNr6An3qPhU.png"></p>
+<blockquote>
+<p><strong>Robert: Using the C language as a prototype</strong>, repair some obvious defects, remove garbage functions, and add some missing functions.<br><strong>Rob: The name “Go”</strong> has many advantages. The name is very short and easy to spell. Tools can be called: goc, gol, goa. If you have an interactive debugger/interpreter, you can simply call it “Go” and use the suffix .go.<br>**Robert: Define empty interface syntax: interface{}. *<em>All interfaces are implemented through this, so it can be used instead of void</em>.</p>
+</blockquote>
+<p>In the speech, Rob Pike also mentioned that although the Go language is based on C as the prototype and designed with C++ as the target, not many C++ programmers have switched to Go language development. In fact, most Go programmers are from Python. Turning to Ruby, there are few C++ programmers among them. He thinks that the design of Go and C++ may be too different. C++ hopes that all solutions can be easily obtained. This way of thinking is different from the way Go works. . Zero cost is not the goal, at least zero CPU cost is not. **Go’s goal is to liberate programmers. **</p>
+<p>Go is not all-encompassing, you don’t expect it to have everything, and you can’t precisely control every detail. For example: Go does not have RAII, but you can use a garbage cleaner instead, although you can’t even use the memory release function.</p>
+<p>You can get a lot of easy-to-understand but powerful toolsets from Go to combine solutions to problems. It may not be as fast or refined as other languages, but it must be easier to write, easier to read, easier to understand, and perhaps safer.</p>
+<p>From another perspective, Go must be more simplified:</p>
+<p>Python and Ruby programmers turn to Go because they don’t need to learn more and care but can get better performance, and even use concurrency features.</p>
+<p>**C++ programmers are reluctant to switch to Go because they are doing their best to fully control their programs and do not want to change this way. For them, software is not just about getting the job done, but about doing the job well. For those who use scripting languages, the focus is on realization and creation, which is why. **</p>
+<h2 id="Advantages-of-Go-language"><a href="#Advantages-of-Go-language" class="headerlink" title="Advantages of Go language"></a>Advantages of Go language</h2><p>First of all, the Go language is a brand-new language designed to make full use of modern hardware performance while taking into account development efficiency. It is a cross-platform (Mac OS, Windows, Linux, etc.) <strong>statically compiled language</strong>. At the same time, taking into account the powerful performance of C++ and the development efficiency of the scripting language, according to a survey of Go language users, it is found that the most used Go language in the world is actually China, which may also be related to the growing Chinese market.</p>
+<p>The Go language was born to do large-scale projects. The current Go language is mainly used in the development of <strong>back-end services</strong>. With the improvement of the Go project in the future, it will be used in *<em>systems, games, UI interfaces, AI, Internet of Things and other fields</em> *, will be widely used. More and more people use Go language instead of scripting language, and use Go language instead of heavy C++ for game servers. Due to the inherent <strong>high concurrency</strong> of the Go language, most of the research on <strong>blockchain</strong> uses the Go language, just as most research crawlers use Python.</p>
+<p>For my 10,000-year Java dog, I recently encountered a bottleneck in WEB development. Although Spring Boot2+Spring Cloud+Docker solved the problem of rapid development and rapid deployment, due to the serious shrinkage of the company’s information cost (each non- Problems encountered by the information department of Internet companies), <strong>existing equipment is outdated, the system is not expandable, the information island is serious, etc.</strong>, which leads me to find a <strong>maximum squeezing of hardware devices</strong>, and at the same time** Lightweight** language** for system refactoring**.</p>
+<p>At this time, the Go language jumped out. Why can’t a system language be used as a web application? Because of the development of scripting languages ​​and microservices, more and more lightweight modules + restful APIs are used to separate the front and backends. So, isn’t the development of APIs that support rest a natural advantage of Go? As for the front-end and back-end data exchange, the template engine of the Go language is no worse than the mainstream freemarker.</p>
+<p>There is a discussion in Alibaba Cloud’s Yunqi community, which compares the consumption of Go language and Java on the system. You can see the results in the following figure.</p>
+<p><img src="https://i.loli.net/2021/03/29/gx1Xn3CrMcLGApd.png"></p>
+<p>Go has many advantages. I just compare Java. In fact, Go is based on the C language and integrates the excellent features of various languages, while simplifying it to a great extent. Let’s take a look at the comparison of several features Java and Go to illustrate:</p>
+<h3 id="Startup-speed"><a href="#Startup-speed" class="headerlink" title="Startup speed"></a>Startup speed</h3><p>This theory is not about comparing languages, but web containers. Because Go language is directly packaged into a binary executable file, its startup is a system-level startup. Compared with containers in the industry, it does not require data support at all, and it can be seen with the naked eye.</p>
+<h3 id="Multithreading-and-coroutines"><a href="#Multithreading-and-coroutines" class="headerlink" title="Multithreading and coroutines"></a>Multithreading and coroutines</h3><p>Due to the performance overflow of modern hardware CPUs, the significance of concurrent programming is self-evident. Of course, many languages ​​support multi-threaded, multi-process programming, but unfortunately, it is not so easy and pleasant to implement and control. The difference between the Go language is that the language level supports goroutine concurrency (coroutines are also called microthreads, which are lighter, less expensive, and have higher performance than threads), and they are very simple to operate. The language level provides keywords (go ) Is used to start the coroutine, and thousands of coroutines can be started on the same machine.</p>
+<p><strong>Java open thread</strong></p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">MyThread</span> <span class="keyword">implements</span> <span class="title">Runnable</span> </span>&#123;</span><br><span class="line">    String arg;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="title">MyThread</span> <span class="params">(String a)</span></span>&#123;</span><br><span class="line">        arg = a;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">run</span> <span class="params">()</span></span>&#123;</span><br><span class="line">        <span class="comment">//...</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span> <span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">        <span class="keyword">new</span> Thread(<span class="keyword">new</span> MyThread(<span class="string">&quot;Thread1&quot;</span>)).start();</span><br><span class="line">        <span class="comment">//Thread2...</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>Go open coroutine</strong></p>
+<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">run</span> <span class="params">(arg <span class="keyword">string</span>)</span></span>&#123;</span><br><span class="line">    <span class="comment">//...</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span> <span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="keyword">go</span> run(<span class="string">&quot;Goroutine1&quot;</span>)</span><br><span class="line">    <span class="comment">//Thread2...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="Get-rid-of-the-evil-try…catch"><a href="#Get-rid-of-the-evil-try…catch" class="headerlink" title="Get rid of the evil try…catch"></a>Get rid of the evil try…catch</h3><p>Anyone who develops in Java has to complain about the evil try…catch, which is disgusting, bloated, and has to write. Go language uses error as the basic data type, and no longer supports the use of try…catch at the language level. This should be regarded as a very bold and revolutionary initiative. It is no wonder that many people complain about the indecentness of the GO language. However, out of the traditional concept, the developers of GO believe that in the process of programming, it is very important to ensure the robustness and stability of the program, and the precise handling of exceptions is very important. Only after each logical processing is completed, the upper layer is clearly informed. Call, whether there is an exception, and the upper layer calls to deal with the exception in a clear and timely manner, so that the robustness and stability of the program can be guaranteed to a high degree. Several features appear in the following example:</p>
+<p>-Pointer<br>-error is output as the return value<br>-Dynamic parameters</p>
+<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(tx *Tx)</span> <span class="title">Query</span><span class="params">(query <span class="keyword">string</span>, ...inferface&#123;&#125;)</span> <span class="params">(*Rows, error)</span></span>&#123;</span><br><span class="line">    retrun tx.QueryContext(..., query, arys...)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="Function-has-multiple-return-values"><a href="#Function-has-multiple-return-values" class="headerlink" title="Function has multiple return values"></a>Function has multiple return values</h3><p>In Java, when we write functions to perform <code>return</code>, if multiple values ​​are involved, they often need to be encapsulated in Map. At this point, Go draws on languages ​​such as Python and supports multiple return values. At the same time, because of the addition of anonymous functions, Make the whole call process wonderful. Several features appear in the following example:</p>
+<p>-Multiple return values<br>-Simplify waiting for variable type declaration<br>-The return value is directly declared to the variable<br>-Simplified variable declaration and assignment</p>
+<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">GetServerInfo</span> <span class="params">()</span> <span class="params">(svrIp, svrName, svrDNS <span class="keyword">string</span>)</span></span> &#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;svrIp&quot;</span>, <span class="string">&quot;svrName&quot;</span>, <span class="string">&quot;svrDNS&quot;</span></span><br><span class="line">&#125;</span><br><span class="line">svrIp, svrName, svrDNS := GetServerInfo()</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="High-performance-HTTPServer"><a href="#High-performance-HTTPServer" class="headerlink" title="High-performance HTTPServer"></a>High-performance HTTPServer</h3><p>As a server language appearing in the Internet age, the ability to serve users is indispensable. GO has its own HTTP/TCP/UDP high-performance server at the language level, based on coroutine concurrency, to provide the most direct and effective capability support for business development. To implement a high-performance HTTP Server in the GO language, it only takes a few lines of code to complete it. It is very simple. The startup speed kills other WEB containers. At the same time, the maintenance cost is extremely low and there is no external dependency.</p>
+<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</span><br><span class="line">    http.HandleFunc(<span class="string">&quot;/&quot;</span>, <span class="function"><span class="keyword">func</span><span class="params">(w http.ResponseWriter, r *http.Request)</span></span>&#123;</span><br><span class="line">        io.WriteString(w, <span class="string">&quot;Hello, World.&quot;</span>)</span><br><span class="line">    &#125;)</span><br><span class="line">    http.ListenAndServe(<span class="string">&quot;:8080&quot;</span>, <span class="literal">nil</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="Mandatory-programming-standards"><a href="#Mandatory-programming-standards" class="headerlink" title="Mandatory programming standards"></a>Mandatory programming standards</h3><p>The programming specifications of the GO language are mandatory to be integrated into the language, such as clearly specifying the placement of curly braces, mandating one sentence per line, not allowing unused packages to be imported, not allowing unused variables to be defined, providing gofmt tools to force formatting codes, etc. .</p>
+<p>This point is very dissatisfied with some programmers. Some people have published N crimes of the GO language, and there is no lack of accusations against programming standards. But for me or from the perspective of engineering management, any development team will formulate specific programming specifications for a specific language, especially for companies like Google. The designers of GO believe that instead of writing the specification in the document, it is better to force the integration into the language, which is more direct and makes use of teamwork and project management.</p>
+<p>When I’m old, I don’t like all kinds of elegant writing. Instead of complying with a public document, it is better to report an error directly. For example, in the Go language, if you <code>import</code> a certain package, or declare a certain A variable, <strong>but not used in the follow-up, Go will directly report an error</strong> when compiling, which is good.</p>
+<p><img src="https://i.loli.net/2021/03/29/12y87LUNrR5iSzd.png"></p>
+<h2 id="Install-and-use-Go-language-in-Mac-OS"><a href="#Install-and-use-Go-language-in-Mac-OS" class="headerlink" title="Install and use Go language in Mac OS"></a>Install and use Go language in Mac OS</h2><h3 id="Download-and-install"><a href="#Download-and-install" class="headerlink" title="Download and install"></a>Download and install</h3><p>Installing the Go language in Mac OS is very simple, just go to <a target="_blank" rel="noopener" href="https://golang.org/dl/">Official website to download the pkg package</a>. However, due to some well-known reasons, this website is often inaccessible. But the download address is not walled. Here I released the latest v1.12 version of <a target="_blank" rel="noopener" href="https://dl.google.com/go/go1.12.darwin-amd64.pkg">download address</a></p>
+<p>After the installation is completed, the environment variables are automatically configured, and there is no need to modify the configuration files (except GOBIN). Go development can already be carried out at this time, but if you need to use a third-party framework such as beego, build You also need to configure the path of GOBIN, use <code>go version</code> to view the current version, and use <code>go env</code> to view the current configuration information</p>
+<p><img src="https://i.loli.net/2021/03/29/twHXximDvWzR59o.png"></p>
+<h3 id="Environment-variable-configuration"><a href="#Environment-variable-configuration" class="headerlink" title="Environment variable configuration"></a>Environment variable configuration</h3><ol>
+<li><p>Open the terminal, <code>cd ~</code> to enter the home directory</p>
+</li>
+<li><p><code>ls -all</code> view all files to see if there is a <code>.bash_profile</code> file</p>
+</li>
+<li><p>If it does not exist, execute <code>touch .bash_profile</code> to create a new</p>
+</li>
+<li><p>If it exists, execute <code>vi .bash_profile</code> to open for editing</p>
+</li>
+</ol>
+<p>Add the following parameters in the file</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">export GOPATH&#x3D;&#x2F;Users&#x2F;xxxxx&#x2F;Go</span><br><span class="line">export GOBIN&#x3D;$GOPATH&#x2F;bin</span><br><span class="line">export PATH&#x3D;$PATH:$GOBIN</span><br></pre></td></tr></table></figure>
+
+<ol start="5">
+<li>Save the edit, and then execute <code>source ~/.bash_profile</code> to complete the configuration of environment variables</li>
+<li><code>go env</code> to view the environment variables after successful configuration</li>
+</ol>
+<p><strong>PS:</strong> If my Mac OS environment is configured and it still takes effect after restarting, I must re-execute <code>source ~/.bash_profile</code>. Later, I found out that zsh was installed to make the terminal look more attractive, so the system loaded by default is <code>~/.zshrc</code> file, so after configuring the environment variables, you need to add a line of <code>source ~/.bash_profile</code> at the end of the <code>~/.zshrc</code> file so that there is no problem.</p>
+<h3 id="IDE-selection"><a href="#IDE-selection" class="headerlink" title="IDE selection"></a>IDE selection</h3><p>You will find many online articles, including some tutorials, which have been emphasizing that Go language is a system language, so you should use Notepad and vim when programming, so that it is more professional. I don’t know if these arguments are correct. I believe there must be a great god who is programming in Go with vim, but for me, choosing a convenient editor is the fastest way to realize the project.</p>
+<p>There are many editors that support the Go language, such as LiteIDE, VS Code, Sublime, Eclipse, Vim, GoLand, etc., but for my web development, highlighting and prompting in multiple languages ​​are very important requirements, right~ That’s right, come to blame me for being unprofessional. After trying Goland, some WEB templates did not support highlighting, so I switched back to IDEA. In fact, it should be said:</p>
+<p>If you simply use Go language** for system-level programming**, you can <strong>choose LiteIDE, Vim</strong>;</p>
+<p>But if you use Go language** for WEB programming like me**, I suggest you <strong>choose Eclipse and IDEA</strong>;</p>
+<h4 id="IDEA-supports-Go"><a href="#IDEA-supports-Go" class="headerlink" title="IDEA supports Go"></a>IDEA supports Go</h4><p>The installation of IDEA and PJ will not be repeated here. It is very simple to let IDEA support the Go language, just install these two plug-ins.</p>
+<p><strong>Go-Support and settings for Go language</strong></p>
+<p><strong>Go Template-Support for the template engine of the Go language</strong></p>
+<p><img src="https://i.loli.net/2021/03/29/3sfkzRqDmyLGK7U.png"></p>
+<p>After the installation is complete, you can perform related configurations in <strong>Languages&amp;Frameworks</strong>, or you can directly create a Go project.</p>
+</div>
+      <div class="prev-or-next"></div>
+    </div>
+    
+<div class="post-catalog" id="catalog">
+  <div class="title">Contents</div>
+  <div class="catalog-content">
+    <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Wedge"><span class="toc-text">Wedge</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#The-generation-of-Go-language"><span class="toc-text">The generation of Go language</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Advantages-of-Go-language"><span class="toc-text">Advantages of Go language</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Startup-speed"><span class="toc-text">Startup speed</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Multithreading-and-coroutines"><span class="toc-text">Multithreading and coroutines</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Get-rid-of-the-evil-try%E2%80%A6catch"><span class="toc-text">Get rid of the evil try…catch</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Function-has-multiple-return-values"><span class="toc-text">Function has multiple return values</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#High-performance-HTTPServer"><span class="toc-text">High-performance HTTPServer</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Mandatory-programming-standards"><span class="toc-text">Mandatory programming standards</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-and-use-Go-language-in-Mac-OS"><span class="toc-text">Install and use Go language in Mac OS</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Download-and-install"><span class="toc-text">Download and install</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Environment-variable-configuration"><span class="toc-text">Environment variable configuration</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#IDE-selection"><span class="toc-text">IDE selection</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#IDEA-supports-Go"><span class="toc-text">IDEA supports Go</span></a></li></ol></li></ol></li></ol>
+  </div>
+</div>
+<script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/catalog.js"></script>
+
+
+    <div class="comments-container">
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <div id="vcomments"></div>
+  <script>
+    new Valine({
+      el: '#vcomments',
+      appId: 'mHgw3YbXtcTnEXgLbopbas3D-gzGzoHsz',
+      appKey: '9VXFCLVhgmg2HtPaPDS6RMWj',
+      placeholder: 'Welcome!',
+      avatar: 'retro',
+      lang: 'en'
+    })
+  </script>
+
+    <style>
+      .comments-container .v .vempty {
+        display: none!important;
+      }
+    </style>
+
+</div>
+  </div>
+
+  <div class="footer">
+  <div class="social">
+    <ul>
+      <li><a title="rss" href="/en/atom.xml"><i class="iconfont icon-rss"></i></a></li>
+    </ul>
+  </div>
+  <div class="footer-more">
+      <a href="https://www.igerm.ee/en/">Copyright © wellmoonloft 2021</a>  
+  </div><div class="footer-more">
+      <a target="_blank" rel="noopener" href="https://github.com/zchengsite/hexo-theme-oranges">Theme by Oranges ｜ Powered by Hexo</a>  
+  </div>
+</div>
+  </div>
+  <div style="position: fixed;right: 2.2rem;top: 2.2rem;font-weight: bold;font-size: 1.6rem;">
+  <a href="https://www.igerm.ee/">中</a>
+  </div><div class="back-to-top hidden">
+  <a href="javascript: void(0)">
+    <i class="iconfont icon-chevronup"></i>
+  </a>
+</div>
+<script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/backtoTop.js"></script>
+  <div class="search-icon" id="search-icon">
+    <a href="javascript: void(0)"><i class="iconfont icon-search"></i></a>
+  </div>
+  <div class="search-overlay hidden">
+    <div class="search-content" tabindex="0">
+      <div class="search-title">
+        <span class="search-icon-input">
+          <a href="javascript: void(0)"><i class="iconfont icon-search"></i></a>
+        </span><input type="text" class="search-input" id="search-input" placeholder="Search...">
+        <span class="search-close-icon" id="search-close-icon">
+          <a href="javascript: void(0)"><i class="iconfont icon-close"></i></a>
+        </span>
+      </div>
+      <div class="search-result" id="search-result"></div>
+    </div>
+  </div>
+  <script async src="https://cdn.jsdelivr.net/gh/wellmoonloft/peach@v0.1.4/source/js/search.js"></script>
+  </div>
+</body>
+</html>
