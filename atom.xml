@@ -1,1257 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Well Talk</title>
-  <icon>https://www.igerm.ee/en/icon.png</icon>
-  <subtitle>Connotation fatty refuses to lose weight</subtitle>
-  <link href="https://www.igerm.ee/en/atom.xml" rel="self"/>
-  
-  <link href="https://www.igerm.ee/en/"/>
-  <updated>2026-06-19T12:34:54.000Z</updated>
-  <id>https://www.igerm.ee/en/</id>
-  
-  <author>
-    <name>wellmoonloft</name>
-    
-  </author>
-  
-  <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Life is full of dreams</title>
-    <link href="https://www.igerm.ee/en/essay/Life%20is%20full%20of%20dreams/"/>
-    <id>https://www.igerm.ee/en/essay/Life%20is%20full%20of%20dreams/</id>
-    <published>2026-06-19T12:34:54.000Z</published>
-    <updated>2026-06-19T12:34:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://images.igerm.ee/myimages/20250214172121883.png&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>https://www.igerm.ee/en/</id><title>Well Talk</title><updated>2026-10-04T01:20:25Z</updated><link href="https://www.igerm.ee/en/"/><link rel="self" href="https://www.igerm.ee/en/atom.xml"/><author><name>wellmoonloft</name></author><entry><id>https://www.igerm.ee/en/essay/Life%20is%20full%20of%20dreams/</id><title>Life is full of dreams</title><link href="https://www.igerm.ee/en/essay/Life%20is%20full%20of%20dreams/"/><updated>2026-06-19T20:34:54+08:00</updated><summary type="html">&lt;p&gt;&lt;img src="https://images.igerm.ee/myimages/20250214172121883.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Flowers bloom and wither, and even the most</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>The Future of Humanity and AI</title>
-    <link href="https://www.igerm.ee/en/essay/The%20Future%20of%20Humanity%20and%20AI/"/>
-    <id>https://www.igerm.ee/en/essay/The%20Future%20of%20Humanity%20and%20AI/</id>
-    <published>2025-11-04T18:34:54.000Z</published>
-    <updated>2025-11-04T18:34:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;“AI isn’t meant to destroy humanity, but rather to deprive humanity of the capacity for</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Break out of the traps carefully designed by the rich for the poor</title>
-    <link href="https://www.igerm.ee/en/experience/Break%20out%20of%20the%20traps%20carefully%20designed%20by%20the%20rich%20for%20the%20poor/"/>
-    <id>https://www.igerm.ee/en/experience/Break%20out%20of%20the%20traps%20carefully%20designed%20by%20the%20rich%20for%20the%20poor/</id>
-    <published>2025-10-08T15:57:23.000Z</published>
-    <updated>2025-10-08T15:57:23.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Prologue&quot;&gt;&lt;a href=&quot;#Prologue&quot; class=&quot;headerlink&quot; title=&quot;Prologue&quot;&gt;&lt;/a&gt;Prologue&lt;/h2&gt;&lt;p&gt;Imagine you’re a wealthy individual, sitting</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Getting Rich" scheme="https://www.igerm.ee/en/tags/Getting-Rich/"/>
-    
-    <category term="Consumption Traps" scheme="https://www.igerm.ee/en/tags/Consumption-Traps/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Personal long-term investment and consumption patterns</title>
-    <link href="https://www.igerm.ee/en/experience/Personal%20long-term%20investment%20and%20consumption%20patterns/"/>
-    <id>https://www.igerm.ee/en/experience/Personal%20long-term%20investment%20and%20consumption%20patterns/</id>
-    <published>2025-09-24T12:29:54.000Z</published>
-    <updated>2025-09-24T12:29:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;A-Low-End-“Buy-Borrow-Die”-Strategy&quot;&gt;&lt;a href=&quot;#A-Low-End-“Buy-Borrow-Die”-Strategy&quot; class=&quot;headerlink&quot; title=&quot;A Low-End “Buy,</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Passive Income" scheme="https://www.igerm.ee/en/tags/Passive-Income/"/>
-    
-    <category term="Investing" scheme="https://www.igerm.ee/en/tags/Investing/"/>
-    
-    <category term="Spending" scheme="https://www.igerm.ee/en/tags/Spending/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Use N8N to send emails with different contents and attachments</title>
-    <link href="https://www.igerm.ee/en/experience/Use%20N8N%20to%20send%20emails%20with%20different%20contents%20and%20attachments/"/>
-    <id>https://www.igerm.ee/en/experience/Use%20N8N%20to%20send%20emails%20with%20different%20contents%20and%20attachments/</id>
-    <published>2025-02-14T04:34:54.000Z</published>
-    <updated>2025-02-14T04:34:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Recently, due to work needs, I hope to do a mass email, about 80,000 emails to different people, modify some content, and attach</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="N8N" scheme="https://www.igerm.ee/en/tags/N8N/"/>
-    
-    <category term="Automated processes" scheme="https://www.igerm.ee/en/tags/Automated-processes/"/>
-    
-    <category term="Email Bulk" scheme="https://www.igerm.ee/en/tags/Email-Bulk/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Synology automatically updates DDNS via cloudflare&#39;s API</title>
-    <link href="https://www.igerm.ee/en/experience/Synology%20automatically%20updates%20DDNS%20via%20cloudflare&#39;s%20API/"/>
-    <id>https://www.igerm.ee/en/experience/Synology%20automatically%20updates%20DDNS%20via%20cloudflare&#39;s%20API/</id>
-    <published>2025-01-23T10:32:54.000Z</published>
-    <updated>2025-01-23T10:32:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;I have been using freedns as ddns before, which is actually quite convenient. Freedns has a free interface for updating dns, which can</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Synology" scheme="https://www.igerm.ee/en/tags/Synology/"/>
-    
-    <category term="Nas" scheme="https://www.igerm.ee/en/tags/Nas/"/>
-    
-    <category term="cloudflare" scheme="https://www.igerm.ee/en/tags/cloudflare/"/>
-    
-    <category term="DDNS" scheme="https://www.igerm.ee/en/tags/DDNS/"/>
-    
-    <category term="Certificate Renewal" scheme="https://www.igerm.ee/en/tags/Certificate-Renewal/"/>
-    
-    <category term="SSL Certificate" scheme="https://www.igerm.ee/en/tags/SSL-Certificate/"/>
-    
-    <category term="letsencrypt" scheme="https://www.igerm.ee/en/tags/letsencrypt/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Transform iMac5K into Studio Display</title>
-    <link href="https://www.igerm.ee/en/experience/Transform%20iMac5K%20into%20Studio%20Display/"/>
-    <id>https://www.igerm.ee/en/experience/Transform%20iMac5K%20into%20Studio%20Display/</id>
-    <published>2024-12-22T16:15:40.000Z</published>
-    <updated>2024-12-22T16:15:40.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;My main computer is the iMac 5K 2017 model I bought in 2018. It supports P3 wide color gamut, but the CPU is still behind the times,</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="iMac" scheme="https://www.igerm.ee/en/tags/iMac/"/>
-    
-    <category term="Studio Display" scheme="https://www.igerm.ee/en/tags/Studio-Display/"/>
-    
-    <category term="Screen transformation" scheme="https://www.igerm.ee/en/tags/Screen-transformation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Use iPhone&#39;s built-in shortcuts and numbers to keep accounts</title>
-    <link href="https://www.igerm.ee/en/experience/Use-iPhone-built-in-shortcuts-and-numbers-to-keep-accounts/"/>
-    <id>https://www.igerm.ee/en/experience/Use-iPhone-built-in-shortcuts-and-numbers-to-keep-accounts/</id>
-    <published>2024-09-18T06:29:54.000Z</published>
-    <updated>2024-09-18T06:29:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Since I started investing, I have become more and more stingy (although I was stingy before…)&lt;/p&gt;
-&lt;p&gt;I want to write a financial</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Automatic accounting" scheme="https://www.igerm.ee/en/tags/Automatic-accounting/"/>
-    
-    <category term="Shortcuts" scheme="https://www.igerm.ee/en/tags/Shortcuts/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Esketit A investment platform from Ireland</title>
-    <link href="https://www.igerm.ee/en/experience/Esketit&#39;s-investment-platform-from-Ireland/"/>
-    <id>https://www.igerm.ee/en/experience/Esketit&#39;s-investment-platform-from-Ireland/</id>
-    <published>2024-09-10T06:00:40.000Z</published>
-    <updated>2024-09-10T06:00:40.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Today I want to share a p2p investment platform that I have used for nearly a year. It promises an annualized return of more than 10% to</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="invest" scheme="https://www.igerm.ee/en/tags/invest/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>West Korea&#39;s attitude is really ambiguous</title>
-    <link href="https://www.igerm.ee/en/essay/West-Korea&#39;s-attitude-is-really-ambiguous/"/>
-    <id>https://www.igerm.ee/en/essay/West-Korea&#39;s-attitude-is-really-ambiguous/</id>
-    <published>2024-08-18T03:41:54.000Z</published>
-    <updated>2024-08-18T03:41:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Since Russia invaded Ukraine, the attitude of the leaders of West Korea has been extremely ambiguous, with a completely mean</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Can you post articles if you are dead?</title>
-    <link href="https://www.igerm.ee/en/essay/Can-you-post-articles-if-you-are-dead/"/>
-    <id>https://www.igerm.ee/en/essay/Can-you-post-articles-if-you-are-dead/</id>
-    <published>2023-02-04T15:50:54.000Z</published>
-    <updated>2023-02-04T15:50:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Flowers bloom and wither, and even the most brilliant starlight will one day fade away. The Earth, the Sun, and even the entire universe will one day face their end. Compared with all of this, a human life is no more than a brief moment. In that fleeting moment, we smile, weep, struggle, hurt, rejoice, grieve, love someone, hate someone. Everything is but a chance encounter in that instant, and no one can escape the eternal sleep that awaits us all.&lt;/p&gt;
+&lt;p&gt;Rather than choosing tears, pain, sorrow, and hatred, I would rather choose smiles, struggle, joy, and love. Everything we encounter in this brief moment, whether good or bad, will not change because of how we feel about it. So I choose to face it with joy and to savor this fleeting moment to the fullest. And when you begin to truly enjoy it, you will discover that somehow, all the things that once seemed bad have changed.&lt;/p&gt;
+&lt;/blockquote&gt;</summary></entry><entry><id>https://www.igerm.ee/en/essay/The%20Future%20of%20Humanity%20and%20AI/</id><title>The Future of Humanity and AI</title><link href="https://www.igerm.ee/en/essay/The%20Future%20of%20Humanity%20and%20AI/"/><updated>2025-11-05T02:34:54+08:00</updated><summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;AI isn&amp;rsquo;t meant to destroy humanity, but rather to deprive humanity of the capacity for destruction.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;—This article was generated by AI!!!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="i-ais-rise-to-national-strategy-not-just-because-its-powerful"&gt;I. AI&amp;rsquo;s Rise to National Strategy: Not Just Because It&amp;rsquo;s &amp;ldquo;Powerful&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;Today, the whole world is talking about AI.&lt;/p&gt;
+&lt;p&gt;The US uses it as a weapon in a new Cold War, China sees it as the core of its industrial upgrading, and Europe is busy discussing AI ethics.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Break%20out%20of%20the%20traps%20carefully%20designed%20by%20the%20rich%20for%20the%20poor/</id><title>Break out of the traps carefully designed by the rich for the poor</title><link href="https://www.igerm.ee/en/experience/Break%20out%20of%20the%20traps%20carefully%20designed%20by%20the%20rich%20for%20the%20poor/"/><updated>2025-10-08T23:57:23+08:00</updated><summary type="html">&lt;h2 id="prologue"&gt;Prologue&lt;/h2&gt;
+&lt;p&gt;Imagine you&amp;rsquo;re a wealthy individual, sitting in a luxurious office, a glass of aged whiskey in hand, overlooking the city lights. You&amp;rsquo;ve made money from your money, your wealth snowballing. Of course, you don&amp;rsquo;t want ordinary people to climb to your level and share in your pie.&lt;/p&gt;
+&lt;p&gt;So, you meticulously design consumer traps, like levels in a game, luring the poor into their trap. Each level holds a &amp;ldquo;candy&amp;rdquo; that glitters and is irresistibly sweet: 10,000 yuan for the latest iPhone, its screen gleaming like a diamond; 100,000 yuan for a used luxury car, its roaring engine making your heart race; 500,000 yuan for the down payment on a small apartment, making you feel like you&amp;rsquo;ve &amp;ldquo;finally got a home&amp;rdquo;; 1 million yuan for a lavish overseas trip, shared on social media for everyone to like&amp;hellip;&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Personal%20long-term%20investment%20and%20consumption%20patterns/</id><title>Personal long-term investment and consumption patterns</title><link href="https://www.igerm.ee/en/experience/Personal%20long-term%20investment%20and%20consumption%20patterns/"/><updated>2025-09-24T20:29:54+08:00</updated><summary type="html">&lt;h2 id="a-low-end-buy-borrow-die-strategy"&gt;A Low-End &amp;ldquo;Buy, Borrow, Die&amp;rdquo; Strategy&lt;/h2&gt;
+&lt;p&gt;Today, I&amp;rsquo;d like to share a personal investment and consumption planning strategy. This strategy, inspired by a simplified version of the &amp;ldquo;Buy, Borrow, Die&amp;rdquo; model, is suitable for the average individual seeking to achieve the goal of &amp;ldquo;living and becoming wealthy.&amp;rdquo; The key is to invest in growth assets, leverage cash flow, and ultimately hold assets long-term to avoid taxes. If you&amp;rsquo;re interested in investing, read on; it might offer some insights.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Use%20N8N%20to%20send%20emails%20with%20different%20contents%20and%20attachments/</id><title>Use N8N to send emails with different contents and attachments</title><link href="https://www.igerm.ee/en/experience/Use%20N8N%20to%20send%20emails%20with%20different%20contents%20and%20attachments/"/><updated>2025-02-14T12:34:54+08:00</updated><summary type="html">&lt;p&gt;Recently, due to work needs, I hope to do a mass email, about 80,000 emails to different people, modify some content, and attach attachments. The principle is actually very simple. There are some existing projects on &lt;a href="https://github.com/"&gt;github&lt;/a&gt; that can be used, but the projects are very old and need to adjust the code. At the same time, some existing mass email tools are cloud-based, and the attachments I want to send actually want to be sent point-to-point, not uploaded to the cloud.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Synology%20automatically%20updates%20DDNS%20via%20cloudflare%27s%20API/</id><title>Synology automatically updates DDNS via cloudflare's API</title><link href="https://www.igerm.ee/en/experience/Synology%20automatically%20updates%20DDNS%20via%20cloudflare%27s%20API/"/><updated>2025-01-23T18:32:54+08:00</updated><summary type="html">&lt;p&gt;I have been using freedns as ddns before, which is actually quite convenient. Freedns has a free interface for updating dns, which can be updated directly using curl.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;curl http://sync.afraid.org/u/*******&lt;/code&gt;, but certificate renewal is more troublesome. Although it can be achieved using &lt;a href="https://acme.sh/"&gt;acme.sh&lt;/a&gt;, it is not so suitable to implement it because freedns does not have a standard interface. In addition, freedns always gives the secondary domain name to others, so I gritted my teeth and simply migrated the domain name to cloudflare for management.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Transform%20iMac5K%20into%20Studio%20Display/</id><title>Transform iMac5K into Studio Display</title><link href="https://www.igerm.ee/en/experience/Transform%20iMac5K%20into%20Studio%20Display/"/><updated>2024-12-23T00:15:40+08:00</updated><summary type="html">&lt;p&gt;My main computer is the iMac 5K 2017 model I bought in 2018. It supports P3 wide color gamut, but the CPU is still behind the times, still I5 3.4G. Whether it is running local large models, compiling, or video editing, it is not good enough.&lt;/p&gt;
+&lt;p&gt;Just in time for the launch of the M4 Mac mini, it can be said to be the king of cost performance, so I ordered it directly. But I thought about the choice of monitor for a long time, and I really couldn&amp;rsquo;t find a substitute. I also considered Dell&amp;rsquo;s u2723qe, a 27-inch 4K screen, with a panel similar to the iMac, but finally gave up.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Use-iPhone-built-in-shortcuts-and-numbers-to-keep-accounts/</id><title>Use iPhone's built-in shortcuts and numbers to keep accounts</title><link href="https://www.igerm.ee/en/experience/Use-iPhone-built-in-shortcuts-and-numbers-to-keep-accounts/"/><updated>2024-09-18T14:29:54+08:00</updated><summary type="html">&lt;p&gt;Since I started investing, I have become more and more stingy (although I was stingy before&amp;hellip;)&lt;/p&gt;
+&lt;p&gt;I want to write a financial management APP to record income and expenses, but all payment methods except Apple Pay cannot obtain transaction information due to security considerations. The most troublesome thing about bookkeeping is the process of recording. If you can&amp;rsquo;t record without feeling, who can manually record every day for 360 days?&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Esketit's-investment-platform-from-Ireland/</id><title>Esketit A investment platform from Ireland</title><link href="https://www.igerm.ee/en/experience/Esketit's-investment-platform-from-Ireland/"/><updated>2024-09-10T14:00:40+08:00</updated><summary type="html">&lt;p&gt;Today I want to share a p2p investment platform that I have used for nearly a year. It promises an annualized return of more than 10% to 11%. In my experience, it is more than 11% per year. In addition, like peerbeery, it also provides a loyalty program reward. If the investment is activated at 25,000/50,000 euros, an additional 0.5%/1% return bonus will be added (but only investments in Jordan can enable this program)&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/essay/West-Korea's-attitude-is-really-ambiguous/</id><title>West Korea's attitude is really ambiguous</title><link href="https://www.igerm.ee/en/essay/West-Korea's-attitude-is-really-ambiguous/"/><updated>2024-08-18T11:41:54+08:00</updated><summary type="html">&lt;p&gt;Since Russia invaded Ukraine, the attitude of the leaders of West Korea has been extremely ambiguous, with a completely mean face.&lt;/p&gt;
+&lt;p&gt;On the one hand, they say they remain neutral, on the other hand, they support it through various speeches internally, and at the same time secretly aid Russia in private, but they just don&amp;rsquo;t admit it. They are really shameless.&lt;/p&gt;
+&lt;p&gt;Until now, Ukraine wants to take back the occupied territory, Finland wants to take back the islands in the Gulf of Finland, Georgia wants to take back Abkhazia, Moldova wants to recover the coast of the Dniester River, and Japan wants to take back the four northern islands.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/essay/Can-you-post-articles-if-you-are-dead/</id><title>Can you post articles if you are dead?</title><link href="https://www.igerm.ee/en/essay/Can-you-post-articles-if-you-are-dead/"/><updated>2023-02-04T23:50:54+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The answer is</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter writes a Nas music player (5)</title>
-    <link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(5)/"/>
-    <id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(5)/</id>
-    <published>2023-01-16T10:59:54.000Z</published>
-    <updated>2023-01-16T10:59:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;The answer is yes!&lt;/p&gt;
+&lt;p&gt;Just start training a mental model of your AI from now on!&lt;/p&gt;
+&lt;p&gt;The purpose of our Moments is to share, so what triggers your desire to share must be something you encounter. In the Internet age, the proportion of sharing what you encounter may not even be 5%. It&amp;rsquo;s more about the feeling you get after seeing the news and other people&amp;rsquo;s circle of friends.
+Such as commenting, or sharing a favorite photo and music.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%285%29/</id><title>Flutter writes a Nas music player (5)</title><link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%285%29/"/><updated>2023-01-16T18:59:54+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="flutter" scheme="https://www.igerm.ee/en/tags/flutter/"/>
-    
-    <category term="subsonic" scheme="https://www.igerm.ee/en/tags/subsonic/"/>
-    
-    <category term="airsonic" scheme="https://www.igerm.ee/en/tags/airsonic/"/>
-    
-    <category term="music" scheme="https://www.igerm.ee/en/tags/music/"/>
-    
-    <category term="navidrome" scheme="https://www.igerm.ee/en/tags/navidrome/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter writes a Nas music player (4)</title>
-    <link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(4)/"/>
-    <id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(4)/</id>
-    <published>2023-01-14T08:50:23.000Z</published>
-    <updated>2023-01-15T07:54:23.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;h3 id="1-encapsulate-a-toast"&gt;1. Encapsulate a Toast&lt;/h3&gt;
+&lt;p&gt;There is no such a useful prompt box in Flutter, there is only a &lt;strong&gt;snackbar&lt;/strong&gt; at the bottom, which feels outrageous&lt;/p&gt;
+&lt;p&gt;If I click to save the server, and there are important prompts such as missing information, it must be in the form of a dialog box, asking the user to click confirm to troubleshoot the error. But for example, the subtle operation of clicking on the single cycle is also a control that needs to prompt the user to change successfully and automatically close within one second. I searched the whole Internet and said that there is no official corresponding one, and I can only use a third-party plug-in. I am afraid that such a small thing will lead to a third-party control. I am afraid that it is a waste of money. It is also very simple to write one by myself.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%284%29/</id><title>Flutter writes a Nas music player (4)</title><link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%284%29/"/><updated>2023-01-14T16:50:23+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Today I finished</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="flutter" scheme="https://www.igerm.ee/en/tags/flutter/"/>
-    
-    <category term="subsonic" scheme="https://www.igerm.ee/en/tags/subsonic/"/>
-    
-    <category term="airsonic" scheme="https://www.igerm.ee/en/tags/airsonic/"/>
-    
-    <category term="music" scheme="https://www.igerm.ee/en/tags/music/"/>
-    
-    <category term="navidrome" scheme="https://www.igerm.ee/en/tags/navidrome/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter writes a Nas music player (3)</title>
-    <link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(3)/"/>
-    <id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(3)/</id>
-    <published>2023-01-11T16:05:23.000Z</published>
-    <updated>2023-01-12T15:05:23.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Today I finished the long-awaited homepage, including three: random albums, most played songs list, and recently added albums&lt;/p&gt;
+&lt;p&gt;In fact, the biggest difference between this APP and Netease Cloud is that you collect and listen to these songs yourself, so those recommended algorithms are not needed&lt;/p&gt;
+&lt;h3 id="customscrollview"&gt;CustomScrollView&lt;/h3&gt;
+&lt;p&gt;The most troublesome thing about the homepage is the mixed arrangement of horizontal and vertical lists, but it is not very complicated. The main thing is that you must remember to set a fixed height and width, or the maximum width and maximum height, otherwise it is very easy to report an error&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%283%29/</id><title>Flutter writes a Nas music player (3)</title><link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%283%29/"/><updated>2023-01-12T00:05:23+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;It has been six</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="flutter" scheme="https://www.igerm.ee/en/tags/flutter/"/>
-    
-    <category term="subsonic" scheme="https://www.igerm.ee/en/tags/subsonic/"/>
-    
-    <category term="airsonic" scheme="https://www.igerm.ee/en/tags/airsonic/"/>
-    
-    <category term="music" scheme="https://www.igerm.ee/en/tags/music/"/>
-    
-    <category term="navidrome" scheme="https://www.igerm.ee/en/tags/navidrome/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter writes a Nas music player (2)</title>
-    <link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(2)/"/>
-    <id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(2)/</id>
-    <published>2023-01-10T18:36:23.000Z</published>
-    <updated>2023-01-10T18:36:23.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;It has been six days since I wrote this player, and most of the functions have been implemented so far. The most important thing I can think of is the home page.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The most important thing is indeed the least important to me. It is mainly because I listen to songs first by query, and second by selecting singers. It seems that a new function needs to be added here. The current page is from singers to albums and then to songs. I seem to I should make a page of all songs, or use the last.fm interface to make a Top10 hit song, or define the hit song based on my own play count&lt;/p&gt;
+&lt;/blockquote&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%282%29/</id><title>Flutter writes a Nas music player (2)</title><link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%282%29/"/><updated>2023-01-11T02:36:23+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;**Shout out! **If</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="flutter" scheme="https://www.igerm.ee/en/tags/flutter/"/>
-    
-    <category term="subsonic" scheme="https://www.igerm.ee/en/tags/subsonic/"/>
-    
-    <category term="airsonic" scheme="https://www.igerm.ee/en/tags/airsonic/"/>
-    
-    <category term="music" scheme="https://www.igerm.ee/en/tags/music/"/>
-    
-    <category term="navidrome" scheme="https://www.igerm.ee/en/tags/navidrome/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter writes a Nas music player (1)</title>
-    <link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(1)/"/>
-    <id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20(1)/</id>
-    <published>2023-01-05T14:40:23.000Z</published>
-    <updated>2023-01-05T14:40:23.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;**Shout out! **If you want to do partial refresh through routing, you must write the routing yourself, don&amp;rsquo;t use the one that comes with flutter, it will make you feel crashed. Today, I switched to the global routing for the local refresh on the right side. After changing most of the code, I found that it was impossible to dynamically refresh while keeping the left and bottom &lt;strong&gt;Widget&lt;/strong&gt;. I rewrote it in a fit of anger and it finally worked. But it wasted a long time. There is no way, in order to adjust the mobile terminal at that time, the left side can be used as a side-sliding window independently, decided to use &lt;strong&gt;ValueNotifier&lt;/strong&gt; to hard-write the route, and then remove the current page highlight on the left side, mainly &lt;strong&gt;Although the Detail&lt;/strong&gt; page can be tracked to the superior, it doesn&amp;rsquo;t matter if you want it or not. I wrote a huge 40 point headline and put it there, so I can&amp;rsquo;t miss it&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%281%29/</id><title>Flutter writes a Nas music player (1)</title><link href="https://www.igerm.ee/en/experience/Flutter%20writes%20a%20Nas%20music%20player%20%281%29/"/><updated>2023-01-05T22:40:23+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Because the last</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="flutter" scheme="https://www.igerm.ee/en/tags/flutter/"/>
-    
-    <category term="subsonic" scheme="https://www.igerm.ee/en/tags/subsonic/"/>
-    
-    <category term="airsonic" scheme="https://www.igerm.ee/en/tags/airsonic/"/>
-    
-    <category term="music" scheme="https://www.igerm.ee/en/tags/music/"/>
-    
-    <category term="navidrome" scheme="https://www.igerm.ee/en/tags/navidrome/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Realize that the prev and next pages only contain articles of the same category</title>
-    <link href="https://www.igerm.ee/en/experience/Realize-that-the-prev-and-next-pages-only-contain-articles-of-the-same-category/"/>
-    <id>https://www.igerm.ee/en/experience/Realize-that-the-prev-and-next-pages-only-contain-articles-of-the-same-category/</id>
-    <published>2022-12-16T14:16:23.000Z</published>
-    <updated>2022-12-16T14:16:23.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Because the last two months have been boring, I have been tossing my old NAS at home, [set up a music server](&lt;a href="https://www.igerm.ee/experience/%E7%AE%A1%E7%90%86"&gt;https://www.igerm.ee/experience/%E7%AE%A1%E7%90%86&lt;/a&gt; %E7%BC%96%E8%BE%91%E5%88%86%E8%BD%A8%E6%AC%A3%E8%B5%8F%E6%9C%AC%E5%9C%B0%E9 %9F%B3%E4%B9%90%E4%B8%80%E6%9D%A1%E9%BE%99/), but I can’t find a particularly satisfactory player. There is also [Sonixd] on the desktop (&lt;a href="https://github.com/jeffvli/sonixd"&gt;https://github.com/jeffvli/sonixd&lt;/a&gt;) has a good appearance and no fancy functions, but I am not satisfied with the mobile phone. Only &lt;a href="https://substreamerapp.com/"&gt;substreamer&lt;/a&gt; can be used. But not very pretty.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Realize-that-the-prev-and-next-pages-only-contain-articles-of-the-same-category/</id><title>Realize that the prev and next pages only contain articles of the same category</title><link href="https://www.igerm.ee/en/experience/Realize-that-the-prev-and-next-pages-only-contain-articles-of-the-same-category/"/><updated>2022-12-16T22:16:23+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I upgraded hexo to</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Update hexo to v6.3.0</title>
-    <link href="https://www.igerm.ee/en/experience/Update-hexo-to-v6-3-0/"/>
-    <id>https://www.igerm.ee/en/experience/Update-hexo-to-v6-3-0/</id>
-    <published>2022-12-16T12:29:54.000Z</published>
-    <updated>2022-12-16T12:29:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;I upgraded hexo to 6.3.0 during the day, but it’s still boring at night, and the outside is still very dangerous, so I just put &lt;a href="https://www.igerm.ee/en/experience/Update-hexo-to-v6-3-0/#Remaining-problem"&gt;this function is realized&lt;/a&gt;, this problem has always existed, However, due to laziness, it dragged on for nearly a year.&lt;/p&gt;
+&lt;p&gt;Let me briefly introduce that my website has three navigations belonging to three &lt;code&gt;categories&lt;/code&gt;, so when entering the article, the titles and links of the previous and next pages in the footer are actually in the order of &lt;code&gt;date&lt;/code&gt; for all articles as a whole Arranged, so for example, if you click on the next page in the essay, you may click on the article in the experience sharing, which is a bit of a drama. Solve that problem tonight.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Update-hexo-to-v6-3-0/</id><title>Update hexo to v6.3.0</title><link href="https://www.igerm.ee/en/experience/Update-hexo-to-v6-3-0/"/><updated>2022-12-16T20:29:54+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;In the past few</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Use ipv6 and ddns to do external access for Synology</title>
-    <link href="https://www.igerm.ee/en/experience/Use-ipv6-and-ddns-to-do-external-access-for-Synology/"/>
-    <id>https://www.igerm.ee/en/experience/Use-ipv6-and-ddns-to-do-external-access-for-Synology/</id>
-    <published>2022-12-13T04:47:54.000Z</published>
-    <updated>2022-12-13T04:47:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;In the past few days, I have focused on updating articles, and suddenly found that &lt;code&gt;hexo g&lt;/code&gt; displayed a highlight error, because I have been submitting to git to automatically generate articles before, so I have not checked the log carefully&lt;/p&gt;
+&lt;p&gt;The main reason is that it only reports a warning when it is generated, and it does not affect the use. This time I found out that I wanted to adjust the theme style, so I need to upgrade the plugin (it has not been upgraded for almost a year, and my hexo version is still 5.4, now 6.3)&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Use-ipv6-and-ddns-to-do-external-access-for-Synology/</id><title>Use ipv6 and ddns to do external access for Synology</title><link href="https://www.igerm.ee/en/experience/Use-ipv6-and-ddns-to-do-external-access-for-Synology/"/><updated>2022-12-13T12:47:54+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The easiest one is</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Add utterances comments to hexo</title>
-    <link href="https://www.igerm.ee/en/experience/Add-utterances-comments-to-hexo/"/>
-    <id>https://www.igerm.ee/en/experience/Add-utterances-comments-to-hexo/</id>
-    <published>2022-12-05T12:29:54.000Z</published>
-    <updated>2022-12-05T12:29:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;The easiest one is definitely quickconnect, but the account must be migrated to the country, which means that user information, address links, etc. must be stored in the country. I am very disgusted with this point since Apple put the data on the cloud in Guizhou. Therefore, I now use 5G space to synchronize some configuration information on icloud, and put all important files and photos on my nas (this is also the reason why I bought nas in the first place)&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Add-utterances-comments-to-hexo/</id><title>Add utterances comments to hexo</title><link href="https://www.igerm.ee/en/experience/Add-utterances-comments-to-hexo/"/><updated>2022-12-05T20:29:54+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;It has been more</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>The perfect Hexo multilingual solution</title>
-    <link href="https://www.igerm.ee/en/experience/The-perfect-Hexo-multilingual-solution/"/>
-    <id>https://www.igerm.ee/en/experience/The-perfect-Hexo-multilingual-solution/</id>
-    <published>2021-04-07T06:35:51.000Z</published>
-    <updated>2022-12-17T15:19:21.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Hexo" scheme="https://www.igerm.ee/en/tags/Hexo/"/>
-    
-    <category term="multilingual" scheme="https://www.igerm.ee/en/tags/multilingual/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>How to use GitHub Action for automatic Hexo</title>
-    <link href="https://www.igerm.ee/en/experience/How-to-use-GitHub-Action-for-automatic-Hexo/"/>
-    <id>https://www.igerm.ee/en/experience/How-to-use-GitHub-Action-for-automatic-Hexo/</id>
-    <published>2021-04-07T05:45:51.000Z</published>
-    <updated>2022-11-30T02:23:21.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Hexo" scheme="https://www.igerm.ee/en/tags/Hexo/"/>
-    
-    <category term="GitHub Action" scheme="https://www.igerm.ee/en/tags/GitHub-Action/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wrong address when using Hexo full text search</title>
-    <link href="https://www.igerm.ee/en/experience/Wrong-address-when-using-Hexo-full-text-search/"/>
-    <id>https://www.igerm.ee/en/experience/Wrong-address-when-using-Hexo-full-text-search/</id>
-    <published>2021-04-05T12:05:51.000Z</published>
-    <updated>2021-04-05T12:05:51.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;It has been more than a year since I transferred the article to hexo, and it is very smooth to use, but the comment system has not been very satisfactory. I was thinking about it, I am afraid that no one will read this stuff for a few years, because there are a lot of &amp;ldquo;you know&amp;rdquo; things written in the essay, so I have no motivation to do SEO, just let it go&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/The-perfect-Hexo-multilingual-solution/</id><title>The perfect Hexo multilingual solution</title><link href="https://www.igerm.ee/en/experience/The-perfect-Hexo-multilingual-solution/"/><updated>2021-04-07T14:35:51+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Hexo has been set</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Hexo" scheme="https://www.igerm.ee/en/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo&#39;s beautification, optimization and Lighthouse&#39;s ultimate tracking</title>
-    <link href="https://www.igerm.ee/en/experience/Hexo&#39;s-beautification-optimization-and-Lighthouse&#39;s-ultimate-tracking/"/>
-    <id>https://www.igerm.ee/en/experience/Hexo&#39;s-beautification-optimization-and-Lighthouse&#39;s-ultimate-tracking/</id>
-    <published>2021-04-04T02:28:42.000Z</published>
-    <updated>2021-04-04T02:28:42.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Updated on 2022-12-17, this method can be used with peace of mind. The new library domain name on the github page is the original domain name/new library name. It is recommended to directly take the abbreviation of the corresponding language, which is easy to remember and search, and more The key point is that compared to directly linking a google translation, the biggest advantage is google crawling&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/How-to-use-GitHub-Action-for-automatic-Hexo/</id><title>How to use GitHub Action for automatic Hexo</title><link href="https://www.igerm.ee/en/experience/How-to-use-GitHub-Action-for-automatic-Hexo/"/><updated>2021-04-07T13:45:51+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I wrote an article</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Hexo" scheme="https://www.igerm.ee/en/tags/Hexo/"/>
-    
-    <category term="Lighthouse" scheme="https://www.igerm.ee/en/tags/Lighthouse/"/>
-    
-    <category term="CDN" scheme="https://www.igerm.ee/en/tags/CDN/"/>
-    
-    <category term="Jsdelivr" scheme="https://www.igerm.ee/en/tags/Jsdelivr/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Use Hexo, GitHub Page, Typora to write articles</title>
-    <link href="https://www.igerm.ee/en/experience/Use-Hexo-GitHub-Page-Typora-to-write-articles/"/>
-    <id>https://www.igerm.ee/en/experience/Use-Hexo-GitHub-Page-Typora-to-write-articles/</id>
-    <published>2021-03-30T08:28:42.000Z</published>
-    <updated>2021-03-30T08:28:42.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Updated on 2022.11.30, the node-version version has been upgraded, using 12 will prompt the upgrade in the management background, although it can be used normally, but the checkout@v2 in the code is changed to v3, setup-node@v1 is changed to v3, node-version Just change it to 16&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It has been 8 days since Hexo was set up, and it has become more and more comfortable to use, and the modified things have basically come to an end.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Wrong-address-when-using-Hexo-full-text-search/</id><title>Wrong address when using Hexo full text search</title><link href="https://www.igerm.ee/en/experience/Wrong-address-when-using-Hexo-full-text-search/"/><updated>2021-04-05T20:05:51+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I have previously</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Hexo" scheme="https://www.igerm.ee/en/tags/Hexo/"/>
-    
-    <category term="Typora" scheme="https://www.igerm.ee/en/tags/Typora/"/>
-    
-    <category term="GitHub Pages" scheme="https://www.igerm.ee/en/tags/GitHub-Pages/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Peerberry&#39;s investment platform from Eastern Europe</title>
-    <link href="https://www.igerm.ee/en/experience/Peerberry&#39;s-investment-platform-from-Eastern-Europe/"/>
-    <id>https://www.igerm.ee/en/experience/Peerberry&#39;s-investment-platform-from-Eastern-Europe/</id>
-    <published>2021-03-20T16:01:23.000Z</published>
-    <updated>2021-03-20T16:01:23.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Hexo has been set up for 6 days, and it feels very good for normal use. Today, I found a problem. When using full-text search, if your current page is not the homepage, then the searched address is wrong.&lt;/p&gt;
+&lt;p&gt;I tracked down the wrong address and found that it was caused by the addition of the current address.&lt;/p&gt;
+&lt;p&gt;Take my website as an example, for example, the current address is: &lt;code&gt;https://www.igerm.ee/categories/gossip/&lt;/code&gt;, and then I just search for a content&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Hexo's-beautification-optimization-and-Lighthouse's-ultimate-tracking/</id><title>Hexo's beautification, optimization and Lighthouse's ultimate tracking</title><link href="https://www.igerm.ee/en/experience/Hexo's-beautification-optimization-and-Lighthouse's-ultimate-tracking/"/><updated>2021-04-04T10:28:42+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Today I want to</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="invest" scheme="https://www.igerm.ee/en/tags/invest/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The dilemma of commercial real estate</title>
-    <link href="https://www.igerm.ee/en/experience/The-dilemma-of-commercial-real-estate/"/>
-    <id>https://www.igerm.ee/en/experience/The-dilemma-of-commercial-real-estate/</id>
-    <published>2021-02-18T14:58:54.000Z</published>
-    <updated>2021-02-18T14:58:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;I wrote an article before &lt;a href="https://www.igerm.ee/en/experience/Use-Hexo-GitHub-Page-Typora-to-write-articles/"&gt;Using Hexo, GitHub Page, Typora to write articles&lt;/a&gt; and shared the process of installing Hexo in detail. Today, let’s talk about how I did article migration in the past few days, choose Hexo theme, and the process of theme modification and Hexo pagination modification. Finally, I will briefly talk about how to achieve 100 points in Lighthouse.&lt;/p&gt;
+&lt;h2 id="hexo-beautify"&gt;Hexo Beautify&lt;/h2&gt;
+&lt;p&gt;First of all, after Hexo is installed, the default theme is &lt;code&gt;landscape&lt;/code&gt;, which is also very concise. It is completely fine for those who focus on writing articles. However, when I used Halo before, I used &lt;a href="https://theme-next.iissnan.com/"&gt;Next theme&lt;/a&gt;, so the first idea of ​​this migration is to still use &lt;code&gt;next&lt;/code&gt;&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Use-Hexo-GitHub-Page-Typora-to-write-articles/</id><title>Use Hexo, GitHub Page, Typora to write articles</title><link href="https://www.igerm.ee/en/experience/Use-Hexo-GitHub-Page-Typora-to-write-articles/"/><updated>2021-03-30T16:28:42+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Commercial estate" scheme="https://www.igerm.ee/en/tags/Commercial-estate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Daughter&#39;s father</title>
-    <link href="https://www.igerm.ee/en/novel/Father-and-child/Daughter&#39;s-father/"/>
-    <id>https://www.igerm.ee/en/novel/Father-and-child/Daughter&#39;s-father/</id>
-    <published>2020-09-30T13:04:54.000Z</published>
-    <updated>2020-09-30T13:04:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;I have previously shared an article &lt;a href="https://www.igerm.ee/en/experience/How-to-write-articles-with-Typora/"&gt;How to write articles with Typora&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Also shared an article &lt;a href="https://www.igerm.ee/en/experience/Recommend-a-set-of-high-value-family-buckets-based-on-content-publishing/"&gt;Recommend a set of high-value family buckets based on content publishing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Recently, due to the server requesting the public security filing, the access speed of overseas servers is too slow. Cloudflare&amp;rsquo;s IP is now almost blocked. I was forced to plan to use Hexo+Github Page to build a set of blogs. After two days, it feels good to use, and it may be possible in the future. Become a content platform that I use for a long time.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/about/</id><title>About</title><link href="https://www.igerm.ee/en/about/"/><updated>2021-03-29T14:59:26+08:00</updated><summary type="html">&lt;p&gt;An ordinary person with more than 15 years of IT experience across coding, products, sales, and enterprise information management. I started a business in 2021; it failed two years later. I now value an ordinary life, steady work, and caring for family.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/Peerberry's-investment-platform-from-Eastern-Europe/</id><title>Peerberry's investment platform from Eastern Europe</title><link href="https://www.igerm.ee/en/experience/Peerberry's-investment-platform-from-Eastern-Europe/"/><updated>2021-03-21T00:01:23+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;He always hides in</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Father and child" scheme="https://www.igerm.ee/en/categories/novel/Father-and-child/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My daughter</title>
-    <link href="https://www.igerm.ee/en/novel/Father-and-child/My-daughter/"/>
-    <id>https://www.igerm.ee/en/novel/Father-and-child/My-daughter/</id>
-    <published>2020-09-30T12:44:31.000Z</published>
-    <updated>2020-09-30T12:44:31.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Today I want to share a p2p investment platform that has been used for nearly two years. It promises an annualized return of more than 10%. In my experience, it is more than 11% per year. In addition, it also provides financial incentives. The activated investment will be 10,000/255,000/40,000 euros, which will add an additional 0.5%/0.75%/1% income bonus.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://images.igerm.ee/myimages/20250214171939849.png" alt="image-20210320114938164"&gt;&lt;/p&gt;
+&lt;p&gt;Peerberry is a multi-lender P2P investment website located in Riga, Latvia. It was launched in 2017 and has been &lt;strong&gt;rapidly developed&lt;/strong&gt; since then. Peerberry was originally owned by &lt;a href="https://aventusgroup.com/"&gt;Aventus Group&lt;/a&gt; and only provided its own loans on the website. Since then, the business has been acquired by a new set of shareholders, and new lenders have been added to the site. &lt;a href="https://explorep2p.com/insights/"&gt;Here is an interview with his new CEO Arūnas Lekavičius&lt;/a&gt;. In foreign countries, whether an investment platform is reliable depends on three main points: 1. Capital guarantee; 2. System regulations; 3. Investment team&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/experience/The-dilemma-of-commercial-real-estate/</id><title>The dilemma of commercial real estate</title><link href="https://www.igerm.ee/en/experience/The-dilemma-of-commercial-real-estate/"/><updated>2021-02-18T22:58:54+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;She always</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Father and child" scheme="https://www.igerm.ee/en/categories/novel/Father-and-child/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My father</title>
-    <link href="https://www.igerm.ee/en/novel/Father-and-child/My-father/"/>
-    <id>https://www.igerm.ee/en/novel/Father-and-child/My-father/</id>
-    <published>2020-09-29T12:34:24.000Z</published>
-    <updated>2020-09-29T12:34:24.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;h2 id="commercial-real-estate-and-internet-platform"&gt;Commercial Real Estate and Internet Platform&lt;/h2&gt;
+&lt;p&gt;It is not so much the plight of commercial real estate as the plight of the real economy.&lt;/p&gt;
+&lt;p&gt;This dilemma began when the industrial structure was fully tilted towards real estate, and it has become particularly difficult until the full-scale explosion of the Internet industry. The real economy has never been optimistic about the Internet, to embrace the Internet, and then to the saturation of online traffic. The time interval is getting shorter and shorter, leaving less and less time for the real economy to adapt and change.&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/novel/Father-and-child/Daughter's-father/</id><title>Daughter's father</title><link href="https://www.igerm.ee/en/novel/Father-and-child/Daughter's-father/"/><updated>2020-09-30T21:04:54+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;He comes home late</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Father and child" scheme="https://www.igerm.ee/en/categories/novel/Father-and-child/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wake</title>
-    <link href="https://www.igerm.ee/en/novel/Love-in-dreams/Wake/"/>
-    <id>https://www.igerm.ee/en/novel/Love-in-dreams/Wake/</id>
-    <published>2020-09-17T15:40:54.000Z</published>
-    <updated>2020-09-17T15:40:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;He always hides in his room and smokes
+Don&amp;rsquo;t let me in
+But I always feel that his room has a kind of taste
+I like the taste
+Of course it is obviously not fragrant&lt;/p&gt;
+&lt;p&gt;So I opened the door again and again
+Smiled and walked in
+Very likely he will let me out
+But after a few attempts, he will
+Tolerate me staying beside&lt;/p&gt;</summary></entry><entry><id>https://www.igerm.ee/en/novel/Father-and-child/My-daughter/</id><title>My daughter</title><link href="https://www.igerm.ee/en/novel/Father-and-child/My-daughter/"/><updated>2020-09-30T20:44:31+08:00</updated><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;He took off his</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Love in dreams" scheme="https://www.igerm.ee/en/categories/novel/Love-in-dreams/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Dreams</title>
-    <link href="https://www.igerm.ee/en/novel/Love-in-dreams/Dreams/"/>
-    <id>https://www.igerm.ee/en/novel/Love-in-dreams/Dreams/</id>
-    <published>2020-09-17T15:23:34.000Z</published>
-    <updated>2020-09-17T15:23:34.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;He suddenly</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Love in dreams" scheme="https://www.igerm.ee/en/categories/novel/Love-in-dreams/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Recommend a set of high-value family buckets based on content publishing</title>
-    <link href="https://www.igerm.ee/en/experience/Recommend-a-set-of-high-value-family-buckets-based-on-content-publishing/"/>
-    <id>https://www.igerm.ee/en/experience/Recommend-a-set-of-high-value-family-buckets-based-on-content-publishing/</id>
-    <published>2019-03-02T09:10:18.000Z</published>
-    <updated>2019-03-02T09:10:18.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;Wedge&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Applets" scheme="https://www.igerm.ee/en/tags/Applets/"/>
-    
-    <category term="ColorUI" scheme="https://www.igerm.ee/en/tags/ColorUI/"/>
-    
-    <category term="Halo" scheme="https://www.igerm.ee/en/tags/Halo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>How to write articles with Typora</title>
-    <link href="https://www.igerm.ee/en/experience/How-to-write-articles-with-Typora/"/>
-    <id>https://www.igerm.ee/en/experience/How-to-write-articles-with-Typora/</id>
-    <published>2019-02-23T13:04:54.000Z</published>
-    <updated>2019-02-23T13:04:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;Wedge&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="experience" scheme="https://www.igerm.ee/en/categories/experience/"/>
-    
-    
-    <category term="Typora" scheme="https://www.igerm.ee/en/tags/Typora/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Beijing&#39;s snow</title>
-    <link href="https://www.igerm.ee/en/novel/Love-in-dreams/Beijing&#39;s%20snow/"/>
-    <id>https://www.igerm.ee/en/novel/Love-in-dreams/Beijing&#39;s%20snow/</id>
-    <published>2019-02-06T13:07:37.000Z</published>
-    <updated>2019-02-06T13:07:37.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Beijing has been a</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Love in dreams" scheme="https://www.igerm.ee/en/categories/novel/Love-in-dreams/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Alive</title>
-    <link href="https://www.igerm.ee/en/novel/Love-in-dreams/Alive/"/>
-    <id>https://www.igerm.ee/en/novel/Love-in-dreams/Alive/</id>
-    <published>2018-12-16T13:54:33.000Z</published>
-    <updated>2018-12-16T13:54:33.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Snow outside the</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Love in dreams" scheme="https://www.igerm.ee/en/categories/novel/Love-in-dreams/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Milk powder</title>
-    <link href="https://www.igerm.ee/en/novel/Love-in-dreams/Milk-powder/"/>
-    <id>https://www.igerm.ee/en/novel/Love-in-dreams/Milk-powder/</id>
-    <published>2018-12-12T15:35:16.000Z</published>
-    <updated>2018-12-12T15:35:16.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;There is a shop on</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Love in dreams" scheme="https://www.igerm.ee/en/categories/novel/Love-in-dreams/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>On the way</title>
-    <link href="https://www.igerm.ee/en/essay/On-the-way/"/>
-    <id>https://www.igerm.ee/en/essay/On-the-way/</id>
-    <published>2018-03-29T04:36:54.000Z</published>
-    <updated>2018-03-29T04:36:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Impressions of Hangzhou</title>
-    <link href="https://www.igerm.ee/en/essay/Impressions-of-Hangzhou/"/>
-    <id>https://www.igerm.ee/en/essay/Impressions-of-Hangzhou/</id>
-    <published>2016-09-23T12:47:31.000Z</published>
-    <updated>2016-09-23T12:47:31.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Raving</title>
-    <link href="https://www.igerm.ee/en/essay/Raving/"/>
-    <id>https://www.igerm.ee/en/essay/Raving/</id>
-    <published>2012-08-08T16:09:40.000Z</published>
-    <updated>2012-08-08T16:09:40.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;What I miss is not</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Father&#39;s son</title>
-    <link href="https://www.igerm.ee/en/novel/Father-and-child/Father&#39;s-son/"/>
-    <id>https://www.igerm.ee/en/novel/Father-and-child/Father&#39;s-son/</id>
-    <published>2010-06-30T16:30:29.000Z</published>
-    <updated>2010-06-30T16:30:29.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using Google&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Recently we often</summary>
-        
-      
-    
-    
-    
-    <category term="novel" scheme="https://www.igerm.ee/en/categories/novel/"/>
-    
-    <category term="Father and child" scheme="https://www.igerm.ee/en/categories/novel/Father-and-child/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Consciousness | Sharo Double Tree Garden</title>
-    <link href="https://www.igerm.ee/en/essay/Consciousness-Sharo-Double-Tree-Garden/"/>
-    <id>https://www.igerm.ee/en/essay/Consciousness-Sharo-Double-Tree-Garden/</id>
-    <published>1997-07-29T04:36:54.000Z</published>
-    <updated>1997-07-29T04:36:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This article was automatically translated using</summary>
-        
-      
-    
-    
-    
-    <category term="essay" scheme="https://www.igerm.ee/en/categories/essay/"/>
-    
-    
-  </entry>
-  
-</feed>
+&lt;p&gt;She always likes
+Make a mess at home&lt;/p&gt;
+&lt;p&gt;Recently she started learning to use scissors
+Then I need to be very careful
+On the sofa, on the carpet, on the bed
+May not know when
+You will bleed if you sit down&lt;/p&gt;
+&lt;p&gt;She started making clothes in cartoons
+Then I have to learn different knowledge
+I studied for a whole month before I dared to do it
+But still ruined that night loli dress&lt;/p&gt;</summary></entry></feed>
